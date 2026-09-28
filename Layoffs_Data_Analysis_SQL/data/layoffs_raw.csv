@@ -1,0 +1,50 @@
+company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised_millions
+Airbnb,San Francisco,Travel,1900.0,0.25,2020-05-05,Post-IPO,United States,6200
+Uber,San Francisco,Transportation,3700.0,0.14,2020-05-18,Post-IPO,United States,25000
+Lyft,San Francisco,Transportation,982.0,0.17,2020-04-29,Post-IPO,United States,4900
+DoorDash,San Francisco,Food,250.0,0.06,2020-04-07,Post-IPO,United States,2500
+Bird,Los Angeles,Transportation,406.0,0.3,2020-03-27,Series D,United States,776
+WeWork,New York,Real Estate,2400.0,0.19,2020-03-31,Post-IPO,United States,22000
+Groupon,Chicago,Retail,2800.0,0.44,2020-04-01,Post-IPO,United States,1400
+TripAdvisor,Needham,Travel,900.0,0.25,2020-04-01,Post-IPO,United States,300
+Zillow,Seattle,Real Estate,80.0,0.02,2020-04-02,Post-IPO,United States,97
+Tesla,Austin,Automotive,0.0,0.0,2020-04-03,Post-IPO,United States,2500
+Twitter,San Francisco,Social Media,0.0,0.0,2020-04-04,Post-IPO,United States,12700
+Microsoft,Redmond,Technology,0.0,0.0,2020-04-05,Post-IPO,United States,0
+Amazon,Seattle,Retail,100.0,0.01,2020-04-06,Post-IPO,United States,10800
+Airbnb,San Francisco,Travel,1900.0,0.25,2020-05-05,Post-IPO,United States,6200
+Uber,San Francisco,Transportation,3700.0,0.14,2020-05-18,Post-IPO,United States,25000
+Stripe,San Francisco,Fintech,300.0,0.1,2020-04-08,Series G,United States,2400
+Stripe,San Francisco,FinTech,300.0,0.1,2020-04-08,Series G,United States,2400
+Robinhood,Menlo Park,Fintech,300.0,0.09,2020-04-09,Series F,United States,2800
+Coinbase,San Francisco,Cryptocurrency,1100.0,0.18,2020-06-10,Post-IPO,United States,547
+Snap,Los Angeles,Social Media,320.0,0.2,2020-05-20,Post-IPO,United States,7500
+Pinterest,San Francisco,Social Media,150.0,0.1,2020-05-21,Post-IPO,United States,1500
+Shopify,Ottawa,E-commerce,100.0,0.05,2020-05-22,Post-IPO,Canada,1200
+Klarna,Stockholm,Fintech,700.0,0.1,2022-06-21,Late Stage,Sweden,3800
+Bolt,Tallinn,Transportation,100.0,0.05,2022-06-22,Late Stage,Estonia,1100
+Getir,Istanbul,Delivery,4500.0,0.14,2022-06-23,Late Stage,Turkey,1800
+Byju's,Bangalore,Education,2500.0,0.05,2022-06-24,Private Equity,India,5500
+Ola,Bangalore,Transportation,1000.0,0.2,2022-06-25,Series J,India,3200
+Unacademy,Bangalore,Education,1000.0,0.17,2022-06-26,Series F,India,440
+Swiggy,Bangalore,Food,380.0,0.2,2022-06-27,Series J,India,3300
+Jumia,Lagos,E-commerce,900.0,0.1,2022-06-28,Post-IPO,Nigeria,800
+Konga,Lagos,E-commerce,,0.15,2022-06-29,Series D,Nigeria,200
+Careem,Dubai,Transportation,536.0,0.06,2022-06-30,Acquired,UAE,770
+Noon,Dubai,E-commerce,200.0,,2022-07-01,Series B,UAE,1000
+Talabat,Dubai,Delivery,150.0,0.05,2022-07-02,Private Equity,UAE,500
+Deliveroo,London,Delivery,350.0,0.09,2022-07-03,Post-IPO,United Kingdom,1700
+Revolut,London,Fintech,0.0,,2022-07-04,Late Stage,United Kingdom,1700
+Monzo,London,Fintech,120.0,0.08,2022-07-05,Late Stage,United Kingdom,1100
+Wise,London,Fintech,80.0,0.04,2022-07-06,Post-IPO,United Kingdom,1300
+Canva,Sydney,Technology,0.0,0.0,2022-07-07,Late Stage,Australia,560
+Atlassian,Sydney,Technology,500.0,0.05,2022-07-08,Post-IPO,Australia,60
+Seek,Melbourne,Recruiting,100.0,0.1,2022-07-09,Post-IPO,Australia,0
+Grab,Singapore,Transportation,1000.0,0.11,2022-07-10,Post-IPO,Singapore,12000
+Sea Group,Singapore,Technology,300.0,0.03,2022-07-11,Post-IPO,Singapore,2000
+Gojek,Jakarta,Transportation,430.0,0.12,2022-07-12,Private Equity,Indonesia,5000
+Tokopedia,Jakarta,E-commerce,300.0,0.1,2022-07-13,Private Equity,Indonesia,2500
+Rappi,Bogota,Delivery,150.0,0.06,2022-07-14,Series F,Colombia,500
+Nubank,Sao Paulo,Fintech,200.0,0.03,2022-07-15,Post-IPO,Brazil,1700
+iFood,Sao Paulo,Food,300.0,0.08,2022-07-16,Private Equity,Brazil,2200
+Mercado Libre,Buenos Aires,E-commerce,100.0,0.02,2022-07-17,Post-IPO,Argentina,750
