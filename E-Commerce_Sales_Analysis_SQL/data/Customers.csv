@@ -1,0 +1,305 @@
+﻿Customer_ID,Customer_Name,Gender,Age,City,Country
+1001,Customer 1,Male,35.0,Jenin,Palestine
+1002,Customer 2,Female,57.0,,Palestine
+1003,Customer 3,Female,18.0,Jerusalem,Palestine
+1004,Customer 4,Male,61.0,Rafah,Saudi Arabia
+1005,Customer 5,Male,44.0,Tulkarm,Jordan
+1006,Customer 6,Female,24.0,Hebron,Egypt
+1007,Customer 7,Male,32.0,Nablus,Jordan
+1008,Customer 8,Female,44.0,Hebron,Palestine
+1009,Customer 9,Male,33.0,Bethlehem,Jordan
+1010,Customer 10,Male,23.0,Tulkarm,Palestine
+1011,Customer 11,Female,49.0,Tulkarm,Saudi Arabia
+1012,Customer 12,Female,50.0,Ramallah,Palestine
+1013,Customer 13,male,23.0,Jerusalem,Jordan
+1014,Customer 14,Female,31.0,Nablus,Saudi Arabia
+1015,Customer 15,Female,29.0,Jenin,Egypt
+1016,Customer 16,Female,49.0,Jenin,Jordan
+1017,Customer 17,Female,53.0,Khan Yunis,Egypt
+1018,Customer 18,Male,52.0,Khan Yunis,Saudi Arabia
+1019,Customer 19,Female,63.0,Gaza,Jordan
+1020,Customer 20,Male,54.0,Rafah,Egypt
+1021,Customer 21,Female,33.0, Gaza ,Saudi Arabia
+1022,Customer 22,Male,23.0,Ramallah,Egypt
+1023,Customer 23,Male,47.0,Rafah,
+1024,Customer 24,Female,61.0,Ramallah,Palestine
+1025,Customer 25,Female,64.0,Jenin,Palestine
+1026,Customer 26,Female,29.0,Khan Yunis,Saudi Arabia
+1027,Customer 27,Male,29.0,Nablus,Egypt
+1028,Customer 28,Female,19.0,Nablus,Jordan
+1029,Customer 29,Female,24.0,Hebron,Jordan
+1030,Customer 30,Male,44.0,Nablus,Egypt
+1031,Customer 31,Male,44.0,Jerusalem,Egypt
+1032,Customer 32,Male,35.0,Nablus,Egypt
+1033,Customer 33,Male,32.0,Ramallah,Jordan
+1034,Customer 34,Female,57.0,Nablus,palestine
+1035,Customer 35,Female,40.0,Rafah,Jordan
+1036,Customer 36,Male,56.0,Jenin,Saudi Arabia
+1037,Customer 37,Female,64.0,Khan Yunis,Palestine
+1038,Customer 38,Female,33.0,,Palestine
+1039,Customer 39,Male,27.0,Jerusalem,Jordan
+1040,Customer 40,Female,63.0,Bethlehem,Egypt
+1041,Customer 41,Male,48.0,Jenin,Egypt
+1042,Customer 42,Female,31.0,Bethlehem,Jordan
+1043,Customer 43,Female,47.0,Tulkarm,Saudi Arabia
+1044,Customer 44,Male,42.0,Ramallah,Jordan
+1045,Customer 45,Male,61.0,Jerusalem,Palestine
+1046,Customer 46,Female,30.0,Nablus,Palestine
+1047,Customer 47,Male,65.0,Ramallah,Saudi Arabia
+1048,Customer 48,Female,62.0,Hebron,Palestine
+1049,Customer 49,Female,26.0,Bethlehem,Saudi Arabia
+1050,Customer 50,Female,25.0,Tulkarm,Jordan
+1051,Customer 51,Female,43.0,Ramallah,Palestine
+1052,Customer 52,Male,20.0,Jenin,Jordan
+1053,Customer 53,Male,32.0,Khan Yunis,Egypt
+1054,Customer 54,Male,38.0,Tulkarm,Jordan
+1055,Customer 55,Male,64.0,Hebron,Saudi Arabia
+1056,Customer 56,FEMALE,65.0,Hebron,Egypt
+1057,Customer 57,Female,25.0,Jerusalem,Jordan
+1058,Customer 58,Male,60.0,Jenin,Egypt
+1059,Customer 59,Female,22.0,Gaza,Saudi Arabia
+1060,Customer 60,Female,53.0,Khan Yunis,Jordan
+1061,Customer 61,Female,58.0,Rafah,Palestine
+1062,Customer 62,Female,60.0,Jerusalem,Jordan
+1063,Customer 63,Male,28.0,Gaza,Saudi Arabia
+1064,Customer 64,Female,60.0,Khan Yunis,Palestine
+1065,Customer 65,Male,23.0,Hebron,Saudi Arabia
+1066,Customer 66,Male,42.0,Jenin,Egypt
+1067,Customer 67,Female,40.0,Hebron,Egypt
+1068,Customer 68,Male,33.0,Tulkarm,Jordan
+1069,Customer 69,Male,19.0,Bethlehem,Saudi Arabia
+1070,Customer 70,Male,55.0,Rafah,Palestine
+1071,Customer 71,Female,34.0,Bethlehem,Jordan
+1072,Customer 72,Male,49.0,Jenin,Jordan
+1073,Customer 73,Male,37.0,Jenin,
+1074,Customer 74,Male,35.0,Gaza,Jordan
+1075,Customer 75,Female,60.0,Jenin,Palestine
+1076,Customer 76,Male,22.0,Jerusalem,Palestine
+1077,Customer 77,Male,53.0,Hebron,Palestine
+1078,Customer 78,Male,53.0,Gaza,Egypt
+1079,Customer 79,Female,36.0,Hebron,Jordan
+1080,Customer 80,Female,30.0,Bethlehem,Egypt
+1081,Customer 81,Female,18.0,Jerusalem,Egypt
+1082,Customer 82,Male,62.0,Rafah,Egypt
+1083,Customer 83,Male,63.0,Bethlehem,Egypt
+1084,Customer 84,Female,29.0,Bethlehem,Egypt
+1085,Customer 85,Female,19.0,Rafah,Egypt
+1086,Customer 86,,23.0,Tulkarm,Egypt
+1087,Customer 87,Male,21.0,Ramallah,Egypt
+1088,Customer 88,Male,57.0,Hebron,Jordan
+1089,Customer 89,M,60.0,Ramallah,Palestine
+1090,Customer 90,Female,25.0,,Saudi Arabia
+1091,Customer 91,Male,53.0,Bethlehem,Jordan
+1092,Customer 92,Female,26.0,ramallah,Egypt
+1093,Customer 93,Female,35.0,Bethlehem,Palestine
+1094,Customer 94,Male,46.0,Bethlehem,Jordan
+1095,Customer 95,Female,52.0,Gaza,Egypt
+1096,Customer 96,Male,59.0,Khan Yunis,Egypt
+1097,Customer 97,Male,20.0,Jerusalem,
+1098,Customer 98,Female,27.0,Hebron,Jordan
+1099,Customer 99,Female,31.0,Gaza,Saudi Arabia
+1100,Customer 100,Male,32.0,Gaza,Egypt
+1101,Customer 101,Female,65.0,Hebron,Saudi Arabia
+1102,Customer 102,Male,55.0,Jenin,Egypt
+1103,Customer 103,Female,33.0,,Egypt
+1104,Customer 104,Male,64.0,Rafah,Saudi Arabia
+1105,Customer 105,Female,41.0,Rafah,JORDAN
+1106,Customer 106,Female,42.0,Hebron,Saudi Arabia
+1107,Customer 107,Female,38.0,Gaza,Saudi Arabia
+1108,Customer 108,Female,24.0,Hebron,Egypt
+1109,Customer 109,Male,62.0,Ramallah,Egypt
+1110,Customer 110,Female,18.0,Ramallah,Egypt
+1111,Customer 111,Male,26.0,Jenin,Jordan
+1112,Customer 112,Female,29.0,Hebron,Saudi Arabia
+1113,Customer 113,Female,31.0,Jerusalem,Palestine
+1114,Customer 114,Male,24.0,Jerusalem,Jordan
+1115,Customer 115,Female,18.0,Bethlehem,Egypt
+1116,Customer 116,Female,50.0,Jerusalem,Saudi Arabia
+1117,Customer 117,Male,64.0,Hebron,Jordan
+1118,Customer 118,Male,23.0,Ramallah,Jordan
+1119,Customer 119,Male,32.0,Khan Yunis,Palestine
+1120,Customer 120,Male,42.0,Hebron,Palestine
+1121,Customer 121,Male,62.0,Rafah,Palestine
+1122,Customer 122,Female,51.0,Bethlehem,Palestine
+1123,Customer 123,Female,54.0,Tulkarm,Saudi Arabia
+1124,Customer 124,Male,45.0,Rafah,
+1125,Customer 125,Female,38.0,Jerusalem,Saudi Arabia
+1126,Customer 126,Female,27.0,Rafah,Palestine
+1127,Customer 127,Male,59.0,Jerusalem,Palestine
+1128,Customer 128,Female,56.0,Gaza,Jordan
+1129,Customer 129,Female,19.0,Ramallah,Egypt
+1130,Customer 130,Female,52.0,Jenin,Jordan
+1131,Customer 131,Female,,Jerusalem,Jordan
+1132,Customer 132,Female,53.0,Ramallah,Palestine
+1133,Customer 133,Male,57.0,Bethlehem,Egypt
+1134,Customer 134,Female,24.0,Jerusalem,Jordan
+1135,Customer 135,Female,38.0,Khan Yunis,Palestine
+1136,Customer 136,Male,23.0,Jenin,Egypt
+1137,Customer 137,Female,45.0,Jerusalem,Saudi Arabia
+1138,Customer 138,Male,62.0,Nablus,
+1139,Customer 139,Male,21.0,Jerusalem,Jordan
+1140,Customer 140,,37.0,Tulkarm,Saudi Arabia
+1141,Customer 141,Female,64.0,Tulkarm,Egypt
+1142,Customer 142,Male,32.0,Jerusalem,Saudi Arabia
+1143,Customer 143,Male,24.0,Jenin,Jordan
+1144,Customer 144,Male,41.0,Khan Yunis,Jordan
+1145,Customer 145,Female,42.0,Jerusalem,Egypt
+1146,Customer 146,Female,49.0,Nablus,Palestine
+1147,Customer 147,Male,33.0,Hebron,Palestine
+1148,Customer 148,Male,63.0,Nablus,Egypt
+1149,Customer 149,Female,43.0,Nablus,Egypt
+1150,Customer 150,Male,31.0,Rafah,Palestine
+1151,Customer 151,Female,64.0,Bethlehem,Egypt
+1152,Customer 152,Male,62.0,Rafah,Jordan
+1153,Customer 153,Female,41.0,Gaza,Egypt
+1154,Customer 154,,19.0,Bethlehem,Saudi Arabia
+1155,Customer 155,Male,46.0,Hebron,Palestine
+1156,Customer 156,Female,44.0,Ramallah,Saudi Arabia
+1157,Customer 157,Male,25.0,Jerusalem,Jordan
+1158,Customer 158,Female,48.0,Nablus,Saudi Arabia
+1159,Customer 159,Female,58.0,Rafah,Jordan
+1160,Customer 160,Female,23.0,Jerusalem,Jordan
+1161,Customer 161,Female,52.0,Rafah,Saudi Arabia
+1162,Customer 162,Female,24.0,Hebron,Egypt
+1163,Customer 163,Male,53.0,Bethlehem,Palestine
+1164,Customer 164,Male,38.0,Bethlehem,Egypt
+1165,Customer 165,Male,,Nablus,Saudi Arabia
+1166,Customer 166,Female,64.0,Jerusalem,Jordan
+1167,Customer 167,Male,25.0,Jenin,Saudi Arabia
+1168,Customer 168,Male,46.0,Ramallah,Egypt
+1169,Customer 169,Male,26.0,Rafah,Jordan
+1170,Customer 170,Male,62.0,Nablus,Palestine
+1171,Customer 171,Male,53.0,Jenin,Egypt
+1172,Customer 172,Male,56.0,Bethlehem,Palestine
+1173,Customer 173,Female,38.0,Gaza,Saudi Arabia
+1174,Customer 174,Female,40.0,Jerusalem,Egypt
+1175,Customer 175,Female,48.0,Tulkarm,Jordan
+1176,Customer 176,Male,55.0,Bethlehem,Palestine
+1177,Customer 177,Female,58.0,Ramallah,Egypt
+1178,Customer 178,Male,18.0,Rafah,Palestine
+1179,Customer 179,Female,49.0,Khan Yunis,Jordan
+1180,Customer 180,Female,23.0,Tulkarm,Saudi Arabia
+1181,Customer 181,Female,31.0,Tulkarm,Saudi Arabia
+1182,Customer 182,Male,57.0,Jenin,Saudi Arabia
+1183,Customer 183,Male,30.0,Rafah,Saudi Arabia
+1184,Customer 184,Female,56.0,Rafah,Egypt
+1185,Customer 185,Male,40.0,Ramallah,Palestine
+1186,Customer 186,Male,29.0,Hebron,Saudi Arabia
+1187,Customer 187,Male,34.0,Gaza,Saudi Arabia
+1188,Customer 188,Male,43.0,Jenin,Saudi Arabia
+1189,Customer 189,Male,54.0,,Egypt
+1190,Customer 190,Male,47.0,Gaza,Palestine
+1191,Customer 191,Female,62.0,Gaza,Egypt
+1192,Customer 192,Female,59.0,Ramallah,Jordan
+1193,Customer 193,,,Jerusalem,Saudi Arabia
+1194,Customer 194,Male,46.0,Tulkarm,Jordan
+1195,Customer 195,Female,31.0,Ramallah,Jordan
+1196,Customer 196,Male,37.0,Khan Yunis,Palestine
+1197,Customer 197,Male,,Bethlehem,Saudi Arabia
+1198,Customer 198,Male,35.0,Ramallah,Saudi Arabia
+1199,Customer 199,Male,62.0,Nablus,Palestine
+1200,Customer 200,Female,38.0,Ramallah,Jordan
+1201,Customer 201,Male,23.0,Gaza,Jordan
+1202,Customer 202,Female,49.0,Nablus,Jordan
+1203,Customer 203,Male,64.0,Hebron,Saudi Arabia
+1204,Customer 204,Female,59.0,Bethlehem,Palestine
+1205,Customer 205,Male,31.0,Jerusalem,Jordan
+1206,Customer 206,Male,39.0,Jerusalem,Palestine
+1207,Customer 207,Female,43.0,Hebron,Palestine
+1208,Customer 208,Female,29.0,Rafah,Saudi Arabia
+1209,Customer 209,Male,30.0,Nablus,Saudi Arabia
+1210,Customer 210,Female,29.0,Bethlehem,Palestine
+1211,Customer 211,Male,65.0,Gaza,Egypt
+1212,Customer 212,Female,53.0,Tulkarm,Palestine
+1213,Customer 213,Female,58.0,Jenin,Palestine
+1214,Customer 214,Male,57.0,Khan Yunis,Jordan
+1215,Customer 215,Female,64.0,,Palestine
+1216,Customer 216,,,Tulkarm,Jordan
+1217,Customer 217,Male,60.0,Gaza,Saudi Arabia
+1218,Customer 218,Male,21.0,Rafah,Egypt
+1219,Customer 219,Male,40.0,Jenin,Egypt
+1220,Customer 220,Female,46.0,Bethlehem,Jordan
+1221,Customer 221,Male,35.0,Gaza,Palestine
+1222,Customer 222,Male,25.0,,Palestine
+1223,Customer 223,Female,27.0,Rafah,Jordan
+1224,Customer 224,Male,57.0,Jenin,Palestine
+1225,Customer 225,,33.0,Jenin,Saudi Arabia
+1226,Customer 226,Male,32.0,Gaza,Saudi Arabia
+1227,Customer 227,Female,62.0,Jenin,Saudi Arabia
+1228,Customer 228,Female,24.0,Tulkarm,Egypt
+1229,Customer 229,Female,61.0,Tulkarm,Egypt
+1230,Customer 230,Male,62.0,Gaza,Egypt
+1231,Customer 231,Male,46.0,Khan Yunis,Jordan
+1232,Customer 232,Female,25.0,Khan Yunis,Egypt
+1233,Customer 233,Male,25.0,Ramallah,Saudi Arabia
+1234,Customer 234,Female,31.0,Rafah,Saudi Arabia
+1235,Customer 235,Male,45.0,Tulkarm,Egypt
+1236,Customer 236,Female,25.0,Jerusalem,Palestine
+1237,Customer 237,Female,39.0,Tulkarm,Egypt
+1238,Customer 238,Male,23.0,Rafah,Jordan
+1239,Customer 239,Male,,Gaza,Egypt
+1240,Customer 240,Female,19.0,,Egypt
+1241,Customer 241,Male,52.0,Khan Yunis,Saudi Arabia
+1242,Customer 242,Female,20.0,Jenin,Jordan
+1243,Customer 243,Male,27.0,Bethlehem,Saudi Arabia
+1244,Customer 244,Female,26.0,Gaza,Saudi Arabia
+1245,Customer 245,Female,57.0,Gaza,Jordan
+1246,Customer 246,Male,20.0,Gaza,Jordan
+1247,Customer 247,Female,38.0,Rafah,Egypt
+1248,Customer 248,Male,46.0,Gaza,Saudi Arabia
+1249,Customer 249,Female,42.0,Tulkarm,Egypt
+1250,Customer 250,Male,50.0,Jenin,Saudi Arabia
+1251,Customer 251,Male,56.0,Bethlehem,Jordan
+1252,Customer 252,Male,36.0,Tulkarm,Egypt
+1253,Customer 253,Male,57.0,Bethlehem,Jordan
+1254,Customer 254,Male,33.0,Khan Yunis,Saudi Arabia
+1255,Customer 255,Female,65.0,Khan Yunis,Jordan
+1256,Customer 256,Male,42.0,Tulkarm,Egypt
+1257,Customer 257,,53.0,Khan Yunis,Palestine
+1258,Customer 258,Male,60.0,Gaza,Saudi Arabia
+1259,Customer 259,Male,56.0,Jenin,Jordan
+1260,Customer 260,Female,58.0,Tulkarm,Jordan
+1261,Customer 261,Female,43.0,Bethlehem,Egypt
+1262,Customer 262,Male,20.0,Bethlehem,Jordan
+1263,Customer 263,Male,41.0,Rafah,Saudi Arabia
+1264,Customer 264,Female,26.0,Jerusalem,Egypt
+1265,Customer 265,Female,60.0,Tulkarm,Egypt
+1266,Customer 266,Female,29.0,Jenin,Palestine
+1267,Customer 267,Male,28.0,Tulkarm,Palestine
+1268,Customer 268,Male,29.0,Tulkarm,Jordan
+1269,Customer 269,,48.0,Ramallah,Saudi Arabia
+1270,Customer 270,Female,45.0,Gaza,Saudi Arabia
+1271,Customer 271,Male,63.0,Ramallah,Egypt
+1272,Customer 272,Male,37.0,Khan Yunis,Egypt
+1273,Customer 273,Male,31.0,Rafah,Jordan
+1274,Customer 274,Female,20.0,Rafah,Palestine
+1275,Customer 275,Male,18.0,Jenin,Palestine
+1276,Customer 276,Male,35.0,Hebron,Jordan
+1277,Customer 277,Male,62.0,Hebron,Jordan
+1278,Customer 278,Female,43.0,Jerusalem,Palestine
+1279,Customer 279,Male,60.0,Hebron,Jordan
+1280,Customer 280,Male,22.0,Jenin,Palestine
+1281,Customer 281,Male,22.0,Gaza,Egypt
+1282,Customer 282,Male,58.0,Tulkarm,Saudi Arabia
+1283,Customer 283,Female,23.0,Ramallah,Egypt
+1284,Customer 284,Male,20.0,Rafah,Jordan
+1285,Customer 285,Male,37.0,Tulkarm,Jordan
+1286,Customer 286,Female,62.0,,Jordan
+1287,Customer 287,Male,51.0,Gaza,Palestine
+1288,Customer 288,Female,,Rafah,Egypt
+1289,Customer 289,Female,58.0,Gaza,Egypt
+1290,Customer 290,,58.0,Khan Yunis,Palestine
+1291,Customer 291,Female,56.0,Gaza,
+1292,Customer 292,Male,61.0,Jerusalem,Jordan
+1293,Customer 293,Female,29.0,Hebron,Palestine
+1294,Customer 294,Male,65.0,Bethlehem,Egypt
+1295,Customer 295,Female,33.0,Jerusalem,Egypt
+1296,Customer 296,Female,56.0,Jenin,Egypt
+1297,Customer 297,Female,45.0,Hebron,Egypt
+1298,Customer 298,Male,55.0,Gaza,Saudi Arabia
+1299,Customer 299,Male,48.0,Gaza,Saudi Arabia
+1300,Customer 300,Male,48.0,Jenin,Egypt
+1018,Customer 18,Male,52.0,Khan Yunis,Saudi Arabia
+1089,Customer 89,M,60.0,Ramallah,Palestine
+1146,Customer 146,Female,49.0,Nablus,Palestine
+1222,Customer 222,Male,25.0,,Palestine

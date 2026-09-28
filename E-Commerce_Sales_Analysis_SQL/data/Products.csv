@@ -1,0 +1,104 @@
+﻿Product_ID,Product_Name,Category,Subcategory,Unit_Price,Cost
+2001,Product 1,Beauty,Makeup,1388.18,1081.44
+2002,Product 2,Home & Kitchen,Kitchen,568.46,266.88
+2003,Product 3,Clothing,Men,1017.83,748.41
+2004,Product 4,Beauty,Makeup,1300.2,969.65
+2005,Product 5,Clothing,Shoes,87.71,47.7
+2006,Product 6,Electronics,,1289.32,582.51
+2007,Product 7,Books,Business,1020.77,471.44
+2008,Product 8,electronics,Outdoor,1345.02,966.59
+2009,Product 9,Home & Kitchen,Kitchen,1281.38,755.01
+2010,Product 10,Sports,Team Sports,458.93,314.88
+2011,Product 11,Clothing,Women,423.12,340.45
+2012,Product 12,Books,Fiction,140.95,82.71
+2013,Product 13,Clothing,Shoes,1214.04,1031.32
+2014,Product 14,Beauty,Skincare,620.79,313.33
+2015,Product 15,Electronics,Laptops,,1092.91
+2016,Product 16,Sports,Outdoor,597.67,487.77
+2017,Product 17,Home & Kitchen,Furniture,214.53,127.89
+2018,Product 18,Electronics,Phones,314.94,143.95
+2019,Product 19,Home and Kitchen,Furniture,957.29,562.23
+2020,Product 20,Clothing,Women,1439.43,1080.7
+2021,Product 21,Beauty,Haircare,437.54,353.88
+2022,Product 22,Clothing,Men,498.13,405.29
+2023,Product 23,Home & Kitchen,Furniture,1117.34,766.83
+2024,Product 24,Beauty,Haircare,459.58,251.18
+2025,Product 25,Home & Kitchen,Kitchen,245.83,196.6
+2026,Product 26,Electronics, phones ,848.81,650.86
+2027,Product 27,Beauty,Makeup,666.0,426.57
+2028,Product 28,Books,,1016.78,788.87
+2029,Product 29,Sports,Team Sports,1184.57,620.8
+2030,Product 30,Home & Kitchen,Furniture,166.31,118.27
+2031,Product 31,Home & Kitchen,Appliances,776.41,483.85
+2032,Product 32,Electronics,Phones,1440.27,
+2033,Product 33,Home & Kitchen,Kitchen,380.41,181.16
+2034,Product 34,Books,Business,781.39,449.32
+2035,Product 35,Electronics,Phones,180.73,109.13
+2036,Product 36,Sports,Fitness,1051.81,560.41
+2037,Product 37,Books,Fiction,600.28,370.16
+2038,Product 38,Electronics,Phones,181.42,144.25
+2039,Product 39,Electronics,Phones,769.63,497.03
+2040,Product 40,Electronics,Phones,655.52,499.66
+2041,Product 41,Clothing,Shoes,-25.0,232.54
+2042,Product 42,Beauty,Skincare,727.6,-10.0
+2043,Product 43,Clothing,Men,506.14,416.12
+2044,Product 44,Clothing,Men,699.24,513.68
+2045,Product 45,Home & Kitchen,Kitchen,85.35,43.13
+2046,Product 46,Electronics,Accessories,28.75,15.1
+2047,Product 47,Sports,Fitness,179.28,125.15
+2048,Product 48,Clothing,Men,860.28,590.22
+2049,Product 49,Sports,Team Sports,22.04,17.44
+2050,Product 50,Beauty,Haircare,256.67,194.86
+2051,Product 51,Books,Technology,392.58,320.94
+2052,Product 52,Beauty,Haircare,911.09,768.83
+2053,Product 53,Electronics,Laptops,1222.54,705.85
+2054,Product 54,Beauty,Makeup,907.09,486.69
+2055,Product 55,Beauty,Haircare,486.69,234.22
+2056,Product 56,Books,Fiction,529.52,242.32
+2057,Product 57,Sports,Fitness,1091.9,800.62
+2058,Product 58,Home & Kitchen,Appliances,485.97,391.7
+2059,Product 59,Electronics,Laptops,202.15,102.59
+2060,Product 60,Sports,Team Sports,271.82,177.48
+2061,Product 61,Electronics,Accessories,20.95,26.1875
+2062,Product 62,Beauty,Makeup,883.19,442.27
+2063,Product 63,Beauty,Makeup,1322.36,878.68
+2064,Product 64,Electronics,Laptops,420.68,197.81
+2065,Product 65,Clothing,Women,452.71,323.89
+2066,Product 66,Books,Technology,41.97,28.89
+2067,Product 67,Electronics,Phones,1312.72,723.92
+2068,Product 68,Beauty,Haircare,837.01,509.29
+2069,Product 69,Sports,Team Sports,1092.77,739.56
+2070,Product 70,Home & Kitchen,Appliances,1475.37,911.35
+2071,Product 71,Books,Business,33.52,25.76
+2072,Product 72,Clothing,Women,620.82,302.73
+2073,Product 73,Sports,Team Sports,,434.97
+2074,Product 74,Clothing,Men,1442.9,752.29
+2075,Product 75,Sports,Fitness,1290.59,1051.87
+2076,Product 76,Home & Kitchen,Kitchen,712.65,529.78
+2077,Product 77,Beauty,Makeup,577.89,379.56
+2078,Product 78,Electronics,Accessories,1100.74,840.07
+2079,Product 79,Books,Business,170.35,138.25
+2080,Product 80,Sports,Team Sports,1200.17,588.02
+2081,Product 81,Electronics,Phones,1119.25,514.02
+2082,Product 82,Home & Kitchen,Appliances,575.06,424.24
+2083,Product 83,Books,Technology,601.03,347.19
+2084,Product 84,Clothing,Women,877.77,538.65
+2085,Product 85,Electronics,Laptops,1404.04,894.45
+2086,Product 86,Electronics,Phones,575.15,349.49
+2087,Product 87,Sports,Fitness,256.86,185.92
+2088,Product 88,Electronics,Laptops,1433.02,784.49
+2089,Product 89,Home & Kitchen,Kitchen,1133.95,909.9
+2090,Product 90,Clothing,Men,315.1,165.21
+2091,Product 91,Clothing,Women,710.6,393.51
+2092,Product 92,Electronics,Phones,730.01,608.63
+2093,Product 93,Home & Kitchen,Furniture,750.83,371.12
+2094,Product 94,Home & Kitchen,Kitchen,452.74,342.24
+2095,Product 95,Home & Kitchen,Appliances,1353.94,1142.49
+2096,Product 96,Beauty,Makeup,1430.2,684.68
+2097,Product 97,Clothing,Men,467.13,313.52
+2098,Product 98,Clothing,Men,1271.01,885.52
+2099,Product 99,Clothing,Women,260.49,143.61
+2100,Product 100,Clothing,Men,1280.12,875.21
+2011,Product 11,Clothing,Women,423.12,340.45
+2041,Product 41,Clothing,Shoes,-25.0,232.54
+2074,Product 74,Clothing,Men,1442.9,752.29
