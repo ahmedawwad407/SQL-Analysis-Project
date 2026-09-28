@@ -1,0 +1,81 @@
+Product_ID,Product_Name,Category,Subcategory,Unit_Price,Cost
+1,Furniture Product 1,Home,Furniture,658.54,
+2,Skincare Product 2,Beauty,Skincare,345.88,213.57
+3,Fragrance Product 3,Beauty,Fragrance,704.6,542.54
+4,Haircare Product 4,Beauty,Haircare,231.81,171.58
+5,Stationery Product 5,Office,Stationery,633.95,502.6
+6,,Clothing,Women,909.21,737.42
+7,Stationery Product 7,Office,Stationery,58.68,42.55
+8,Decor Product 8,Home,Decor,826.46,635.02
+9,Men Product 9,Clothing,Men,866.62,615.92
+10,Stationery Product 10,Home ,Stationery,522.91,352.05
+11,Kitchen Product 11,Home,Kitchen,430.78,350.6
+12,Laptops Product 12,Electronics,Laptops,914.65,660.36
+13,Smartphones Product 13,Electronics,Smartphones,46.28,25.61
+14,,Office,Supplies,159.59,121.77
+15,Smartphones Product 15,Electronics,Smartphones,447.28,356.43
+16,Laptops Product 16,Electronics,Laptops,882.77,592.2
+17,Fragrance Product 17,Beauty,Fragrance,291.69,216.51
+18,Haircare Product 18,Beauty,Haircare,76.65,
+19,Skincare Product 19,Beauty,Skincare,909.48,584.45
+20,Skincare Product 20,Beauty,Skincare,399.81,259.36
+21,Smartphones Product 21,Electronics,Smartphones,216.37,114.45
+22,Printers Product 22,Office,Printers,347.87,184.66
+23,Fragrance Product 23,Home ,Fragrance,455.32,299.46
+24,Laptops Product 24,Electronics,Laptops,638.14,392.39
+25,Fragrance Product 25,Beauty,Fragrance,237.69,110.47
+26,Printers Product 26,Office,Printers,870.81,696.34
+27,Women Product 27,Clothing,Women,516.9,286.7
+28,Haircare Product 28,Beauty,Haircare,492.48,314.32
+29,Men Product 29,Clothing,Men,287.24,198.5
+30,Stationery Product 30,Office,Stationery,85.57,41.54
+31,Fragrance Product 31,Beauty,Fragrance,14.91,7.07
+32,Decor Product 32,Home,Decor,407.61,199.1
+33,Fragrance Product 33,Beauty,Fragrance,835.68,605.29
+34,Shoes Product 34,,Shoes,777.38,370.57
+35,Furniture Product 35,Home,Furniture,440.59,252.34
+36,,Electronics,Laptops,59.12,43.98
+37,Skincare Product 37,Beauty,Skincare,549.61,293.62
+38,Printers Product 38,Office,Printers,373.53,255.19
+39,Women Product 39,Clothing,Women,23.91,16.72
+40,Skincare Product 40,Beauty,Skincare,612.22,415.57
+41,Skincare Product 41,Beauty,Skincare,668.23,318.65
+42,,Beauty,Skincare,281.03,197.78
+43,Skincare Product 43,Beauty,Skincare,273.19,216.61
+44,Women Product 44,Clothing,Women,782.44,361.02
+45,Decor Product 45,Home,Decor,,156.23
+46,Haircare Product 46,Beauty,Haircare,912.45,459.24
+47,Supplies Product 47,ELECTRONICS ,Supplies,529.42,346.97
+48,Laptops Product 48,Electronics,Laptops,12.74,8.55
+49,Fragrance Product 49,clothing,Fragrance,900.05,506.49
+50,Supplies Product 50,Office,Supplies,396.72,273.34
+51,Skincare Product 51,Beauty,Skincare,159.62,84.87
+52,Supplies Product 52,Office,Supplies,115.97,80.98
+53,Skincare Product 53,Beauty,Skincare,810.01,643.94
+54,Haircare Product 54,Beauty,Haircare,615.28,293.53
+55,Smartphones Product 55,Electronics,Smartphones,100.51,72.21
+56,Women Product 56,Clothing,Women,344.42,240.54
+57,Furniture Product 57,Home,Furniture,276.6,131.61
+58,Kitchen Product 58,Home,Kitchen,465.68,266.13
+59,Stationery Product 59,Office,Stationery,558.29,368.06
+60,Printers Product 60,Office,Printers,911.06,466.82
+61,Supplies Product 61,Office,Supplies,748.09,533.77
+62,Women Product 62,Clothing,Women,,399.44
+63,Printers Product 63,Office,Printers,,258.73
+64,Printers Product 64,Office,Printers,527.67,271.77
+65,Skincare Product 65,Beauty,Skincare,800.97,
+66,Decor Product 66,Home,Decor,193.04,139.26
+67,,Electronics,Accessories,79.03,36.11
+68,Fragrance Product 68,Beauty,Fragrance,37.38,24.87
+69,Shoes Product 69,Clothing,Shoes,208.42,96.62
+70,Stationery Product 70,,Stationery,850.13,552.31
+71,Kitchen Product 71,Home,Kitchen,377.73,294.57
+72,Fragrance Product 72,Beauty,Fragrance,815.45,407.35
+73,Fragrance Product 73,,Fragrance,93.3,54.55
+74,Accessories Product 74,Electronics,Accessories,233.03,187.98
+75,Fragrance Product 75,,Fragrance,164.22,105.14
+76,Men Product 76,clothing,Men,176.75,141.58
+77,Decor Product 77,Home,Decor,697.55,556.29
+78,Laptops Product 78,Electronics,Laptops,,388.58
+79,Printers Product 79,Office,Printers,228.45,159.32
+80,Haircare Product 80,Beauty,Haircare,373.58,294.99

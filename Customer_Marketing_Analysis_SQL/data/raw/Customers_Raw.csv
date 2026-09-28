@@ -1,0 +1,811 @@
+Customer_ID,Customer_Name,Gender,Age,City,Country,Signup_Date,Customer_Segment
+1,Lina Nasser,Male,38.0,Nablus,Palestine,2025-02-27,Corporate
+2,Ali Farah,Male,32.0,Istanbul,Turkey,2021-07-29,consumer
+3,Sami Nasser,Male,40.0,Nablus,Palestine,2021-07-11,CONSUMER
+4,Dana Nasser,Male,49.0,Amman,Jordan,2022-02-12,consumer
+5,Khaled Yasin,Female,31.0,Nablus,Palestine,2025-04-04,consumer
+6,Sami Mansour,Female,31.0,Gaza,Palestine,2021-11-15,Consumer
+7,Noor Mansour,Male,49.0,Tulkarm,Palestine,2021-07-18,CONSUMER
+8,Leen Suleiman,Female,41.0,Nablus,Palestine,2025-02-03,Consumer
+9,Sara Mahmoud,Female,29.0,Ramallah,Palestine,2024-02-05,CONSUMER
+10,Ali Hassan,Female,39.0,Dubai,UAE,2022-01-29,Corporate 
+11,Tareq Khalil,Male,29.0,Gaza,Palestine,2021-06-13,consumer
+12,Noor Saleh,Female,29.0,Bethlehem,Palestine,2024-07-25,Small Business
+13,Lina Yasin,Female,36.0,Hebron,Palestine,2024-10-04,Corporate 
+14,Khaled Suleiman,Male,18.0,Dubai,UAE,2025-13-40,Corporate 
+15,Rana Awwad,Male,18.0,Jerusalem,Palestine,2023-08-05,Corporate 
+16,Omar Nasser,Male,28.0,Cairo,Egypt,2022-10-27,Small Business
+17,Lina Khalil,Male,23.0,Jenin,Palestine,2023-04-02,Corporate
+18,Hala Hamdan,Female,37.0,Hebron,Palestine,2024-09-04,Corporate 
+19,Adam Nasser,Female,24.0,Jerusalem,Palestine,2022-06-27,Corporate 
+20,Dana Farah,Female,19.0,Istanbul,Turkey,2024-04-12,consumer
+21,Hala Khalil,Female,48.0,Hebron,Palestine,2021-10-11,Small Business
+22,Khaled Mahmoud,Male,31.0,Ramallah,Palestine,2021-11-10,consumer
+23,Leen Suleiman,Male,34.0,Tulkarm,Palestine,2023-02-21,Small Business
+24,Yousef Mahmoud,Male,19.0,Cairo,Egypt,2025-01-16,CONSUMER
+25,Yousef Awwad,Female,28.0,Cairo,Egypt,2022-11-28,consumer
+26,Lina Suleiman,Male,35.0,Bethlehem,Palestine,2025-13-40,Small Business
+27,Yousef Mahmoud,Male,22.0,Amman,Jordan,2026-02-13,Small Business
+28,Khaled Suleiman,Male,37.0,Jerusalem,Palestine,2023-02-05,Small Business
+29,Hala Hassan,Male,27.0,Dubai,UAE,2022-10-26,Consumer
+30,Omar Nasser,Female,31.0,Gaza,Palestine,2022-05-06,CONSUMER
+31,Hala Khalil,Male,27.0,Ramallah,Palestine,2025-02-07,Small Business
+32,Hala Suleiman,Male,52.0,Jerusalem,Palestine,2024-09-13,Corporate
+33,Dana Nasser,Female,33.0,Amman,Jordan,2025-11-22,CONSUMER
+34,Rana Mahmoud,Male,23.0,Istanbul,Turkey,2022-10-01,Corporate 
+35,Leen Khalil,Female,42.0,Bethlehem,Palestine,2026-01-17,Corporate
+36,Ahmed Farah,Male,21.0,Ramallah,Palestine,2022-11-24,CONSUMER
+37,Ahmed Khalil,Male,36.0,Dubai,UAE,2022-03-28,Corporate 
+38,Omar Mansour,Male,18.0,Hebron,Palestine,2021-05-19,Consumer
+39,Hala Nasser,Male,20.0,Gaza,Palestine,2024-10-02,CONSUMER
+40,Hala Nasser,Male,35.0,Istanbul,Turkey,2025-12-13,Small Business
+41,Yousef Khalil,Female,41.0,Tulkarm,Palestine,2022-01-25,Corporate 
+42,Dana Odeh,Female,35.0,Jenin,Palestine,2023-05-18,Small Business
+43,Yousef Hassan,Male,32.0,Cairo,Egypt,2024-08-31,consumer
+44,Sami Nasser,Female,30.0,Ramallah,Palestine,2022-05-25,CONSUMER
+45,Khaled Awwad,Female,19.0,Jerusalem,Palestine,2023-05-15,consumer
+46,Yousef Hassan,Male,26.0,Ramallah,Palestine,2023-06-27,Corporate 
+47,Tareq Saleh,Male,29.0,Ramallah,Palestine,2026-03-13,consumer
+48,Rana Hassan,Female,44.0,Bethlehem,Palestine,2022-03-14,Corporate
+49,Lina Odeh,Female,37.0,Nablus,Palestine,2023-03-11,Small Business
+50,Hala Saleh,,18.0,Istanbul,Turkey,2025-02-05,Corporate
+51,Omar Yasin,Female,37.0,Hebron,Palestine,2021-04-30,Small Business
+52,Hala Suleiman,Male,30.0,Nablus,Palestine,2024-04-11,Small Business
+53,Ali Saleh,Male,27.0,Nablus,Palestine,2023-11-07,Consumer
+54,Tareq Hamdan,Male,40.0,Cairo,Egypt,2025-11-01,Consumer
+55,Omar Farah,Male,44.0,Dubai,UAE,not_available,Consumer
+56,Maya Awwad,Female,43.0,Cairo,Egypt,2024-04-10,Corporate
+57,Rana Saleh,Female,25.0,Hebron,Palestine,2022-06-28,Corporate 
+58,Ali Hassan,Female,30.0,Bethlehem,Palestine,2022-10-10,consumer
+59,Sami Suleiman,Male,37.0,Ramallah,Palestine,2024-01-07,Small Business
+60,Ali Nasser,Male,43.0,Jenin,Palestine,2025-12-10,Small Business
+61,Sara Farah,Female,29.0,Jerusalem,Palestine,2023-06-17,Small Business
+62,Sara Mahmoud,Male,32.0,Cairo,Egypt,2025-08-01,Consumer
+63,Yousef Yasin,Male,22.0,Gaza,Palestine,2021-08-25,CONSUMER
+64,Sami Yasin,Male,22.0,Gaza,Palestine,2022-08-01,Small Business
+65,Lina Suleiman,Male,42.0,Cairo,Egypt,2024-07-22,consumer
+66,Dana Awwad,Female,47.0,Nablus,Palestine,2021-07-09,Consumer
+67,Adam Mahmoud,Male,33.0,Jenin,Palestine,2025-04-29,Small Business
+68,Dana Suleiman,Male,44.0,Istanbul,Turkey,2023-06-24,Consumer
+69,Adam Suleiman,Male,37.0,Ramallah,Palestine,2025-12-14,Consumer
+70,Adam Hamdan,Female,27.0,Dubai,UAE,2024-02-06,Corporate
+71,Omar Mansour,Male,37.0,Gaza,Palestine,2023-01-17,Corporate
+72,Noor Suleiman,Male,49.0,Cairo,Egypt,2021-07-30,Small Business
+73,Adam Nasser,Female,33.0,Dubai,UAE,2025-03-15,Small Business
+74,Dana Hassan,Male,49.0,Jerusalem,Palestine,2025-12-11,Corporate
+75,Tareq Awwad,Female,18.0,Tulkarm,Palestine,2025-07-01,Corporate
+76,Omar Odeh,Male,42.0,Tulkarm,Palestine,2025-11-22,Corporate
+77,Sara Nasser,Male,34.0,Bethlehem,Palestine,2022-12-18,Corporate
+78,Rana Mansour,Male,31.0,Cairo,Egypt,2022-01-31,Small Business
+79,Rana Mahmoud,Male,34.0,Gaza,Palestine,2022-12-21,Small Business
+80,Lina Saleh,Female,18.0,Nablus,Palestine,2021-08-25,CONSUMER
+81,Dana Mansour,Female,31.0,Nablus,Palestine,2021-08-11,Corporate 
+82,Yousef Hamdan,Female,37.0,Tulkarm,Palestine,2024-05-26,CONSUMER
+83,Dana Hassan,Male,48.0,Gaza,Palestine,2021-04-01,CONSUMER
+84,Ali Mahmoud,Male,28.0,Jenin,Palestine,2023-06-03,Small Business
+85,Yousef Yasin,Female,25.0,Cairo,Egypt,2025-10-03,Small Business
+86,Maya Hamdan,Female,28.0,Cairo,Egypt,2023-04-17,Corporate 
+87,Sami Hamdan,Female,43.0,Amman,Jordan,2021-09-18,Corporate 
+88,Khaled Farah,Female,37.0,Cairo,Egypt,2025-03-13,CONSUMER
+89,Ahmed Awwad,Female,28.0,Tulkarm,Palestine,2024-01-28,Small Business
+90,Maya Odeh,Male,39.0,Tulkarm,Palestine,2025-05-29,consumer
+91,Hala Yasin,Female,34.0,Cairo,Egypt,2022-03-14,Corporate
+92,Maya Khalil,Male,43.0,Gaza,Palestine,2023-11-22,Small Business
+93,Tareq Nasser,Male,26.0,Cairo,Egypt,2022-09-28,Corporate
+94,Hala Farah,Male,30.0,Nablus,Palestine,2022-05-17,Small Business
+95,Sami Yasin,Male,30.0,Bethlehem,Palestine,2023-04-29,Corporate 
+96,Tareq Saleh,Female,19.0,Bethlehem,Palestine,2023-03-30,Corporate 
+97,Dana Nasser,Male,36.0,Ramallah,Palestine,2025-05-14,Corporate
+98,Tareq Khalil,Female,36.0,Nablus,Palestine,2024-02-16,consumer
+99,Maya Odeh,Male,34.0,Bethlehem,Palestine,2024-09-29,CONSUMER
+100,Khaled Yasin,Female,31.0,Amman,Jordan,2023-07-03,Small Business
+101,Tareq Mahmoud,Female,19.0,Bethlehem,Palestine,2022-06-15,Small Business
+102,Lina Odeh,Female,29.0,Cairo,Egypt,2022-05-05,Consumer
+103,Maya Mansour,Female,30.0,Hebron,Palestine,2022-07-11,CONSUMER
+104,Tareq Hamdan,Male,25.0,Jerusalem,Palestine,2021-11-05,Corporate 
+105,Ali Hamdan,Male,32.0,Istanbul,Turkey,2022-03-15,consumer
+106,Dana Hassan,Female,38.0,Amman,Jordan,2023-08-13,Corporate
+107,Ahmed Farah,,52.0,Tulkarm,Palestine,2026-01-28,consumer
+108,Sara Hamdan,Female,35.0,Nablus,Palestine,2022-12-22,Small Business
+109,Tareq Odeh,Female,36.0,Amman,Jordan,2025-03-11,Corporate
+110,Ahmed Hamdan,Female,33.0,Tulkarm,Palestine,not_available,Small Business
+111,Leen Saleh,Female,18.0,Istanbul,Turkey,2021-12-05,CONSUMER
+112,Ahmed Khalil,Male,33.0,Tulkarm,Palestine,2024-04-27,Corporate 
+113,Leen Saleh,Female,34.0,Jerusalem,Palestine,2025-11-11,Consumer
+114,Sami Odeh,Female,58.0,Tulkarm,Palestine,2022-11-02,Small Business
+115,Dana Awwad,Female,32.0,Tulkarm,Palestine,2022-07-24,Small Business
+116,Omar Mansour,Male,37.0,Bethlehem,Palestine,2021-02-09,Corporate
+117,Ahmed Nasser,Male,33.0,Cairo,Egypt,2021-03-24,Corporate
+118,Tareq Saleh,Male,22.0,Dubai,UAE,2021-11-09,consumer
+119,Leen Yasin,Male,12.0,Dubai,UAE,2022-03-23,Small Business
+120,Yousef Saleh,Female,41.0,Jerusalem,Palestine,2024-05-25,Small Business
+121,Sara Farah,Male,41.0,Dubai,UAE,2021-02-22,Corporate 
+122,Sami Khalil,Female,24.0,Tulkarm,Palestine,2025-01-04,CONSUMER
+123,Sara Mahmoud,Male,48.0,Ramallah,Palestine,2024-11-28,CONSUMER
+124,Omar Mansour,Male,19.0,Dubai,UAE,2025-05-22,CONSUMER
+125,Ali Suleiman,Female,39.0,Cairo,Egypt,2023-01-29,Corporate 
+126,Dana Odeh,Female,55.0,Nablus,Palestine,2025-10-06,Consumer
+127,Leen Yasin,Female,24.0,Jenin,Palestine,2024-07-25,Corporate
+128,Lina Farah,Female,28.0,Jerusalem,Palestine,2025-02-11,Small Business
+129,Lina Mansour,Female,34.0,Bethlehem,Palestine,2023-06-12,Small Business
+130,Leen Nasser,Male,28.0,Ramallah,Palestine,2022-07-26,Small Business
+131,Rana Mansour,Female,18.0,Dubai,UAE,2024-06-03,Consumer
+132,Hala Nasser,,34.0,Jenin,Palestine,2022-01-08,Small Business
+133,Lina Suleiman,Female,23.0,Jenin,Palestine,2022-07-27,Consumer
+134,Dana Odeh,Male,38.0,Ramallah,Palestine,2022-05-10,CONSUMER
+135,Hala Odeh,Male,24.0,Istanbul,Turkey,2023-09-03,Small Business
+136,Tareq Hamdan,Male,49.0,,Palestine,2022-08-26,Corporate 
+137,Noor Odeh,Male,,Gaza,Palestine,2024-09-21,CONSUMER
+138,Maya Mansour,Female,30.0,Tulkarm,Palestine,2025-03-08,Corporate 
+139,Lina Nasser,Female,42.0,Gaza,Palestine,2022-09-20,Consumer
+140,Khaled Nasser,Male,21.0,Jenin,Palestine,2021-09-02,Corporate
+141,Sara Khalil,Female,36.0,Gaza,Palestine,2025-01-23,Small Business
+142,Noor Saleh,Male,,Gaza,Palestine,2022-04-11,Small Business
+143,Adam Awwad,Male,18.0,Istanbul,Turkey,2023-12-30,Consumer
+144,Adam Mahmoud,Male,35.0,Amman,Jordan,2022-08-22,Small Business
+145,Ahmed Farah,Female,36.0,Ramallah,Palestine,2025-11-23,Small Business
+146,Maya Saleh,Female,41.0,Bethlehem,Palestine,2023-06-22,Consumer
+147,Ali Hamdan,Female,21.0,Bethlehem,Palestine,2021-08-22,consumer
+148,Omar Saleh,Male,20.0,Dubai,UAE,2024-07-13,Corporate
+149,Yousef Suleiman,Female,39.0,Ramallah,Palestine,2024-02-31,Small Business
+150,Tareq Suleiman,Female,36.0,Dubai,UAE,2024-05-05,consumer
+151,Dana Awwad,Female,36.0,Bethlehem,Palestine,2022-09-01,CONSUMER
+152,Yousef Nasser,Male,37.0,Dubai,UAE,2025-02-24,Corporate 
+153,Ali Saleh,Male,27.0,Gaza,Palestine,2024-09-14,Corporate
+154,Khaled Hassan,Male,36.0,Amman,Jordan,2021-06-03,consumer
+155,Hala Awwad,Female,36.0,Istanbul,Turkey,2024-05-01,Consumer
+156,Sara Yasin,Male,26.0,Gaza,Palestine,2024-12-18,Small Business
+157,Tareq Awwad,Female,52.0,Ramallah,Palestine,2024-11-08,Small Business
+158,Tareq Mahmoud,Male,38.0,Tulkarm,Palestine,2021-08-24,Corporate
+159,Omar Saleh,Female,22.0,Jerusalem,Palestine,2021-05-27,Small Business
+160,Sara Odeh,Female,40.0,Dubai,UAE,2025-03-14,Consumer
+161,Rana Awwad,Female,24.0,Istanbul,Turkey,2022-09-15,CONSUMER
+162,Omar Hamdan,Female,41.0,Bethlehem,Palestine,2021-06-14,Corporate 
+163,Ahmed Khalil,Female,45.0,Dubai,UAE,2022-05-28,Corporate
+164,Lina Farah,Male,25.0,Cairo,Egypt,2025-08-10,Consumer
+165,Leen Awwad,Male,43.0,Bethlehem,Palestine,2023-11-29,Corporate
+166,Hala Khalil,Female,38.0,Cairo,Egypt,2025-07-26,consumer
+167,Maya Mahmoud,Female,42.0,Tulkarm,Palestine,2022-11-14,Consumer
+168,Hala Awwad,Male,52.0,Jenin,Palestine,2023-04-24,Corporate 
+169,Leen Khalil,Female,31.0,Amman,Jordan,2021-03-17,Small Business
+170,Rana Suleiman,Female,26.0,Jenin,Palestine,2021-08-26,Small Business
+171,Leen Hamdan,Male,25.0,Cairo,Egypt,2025-11-16,Consumer
+172,Hala Mahmoud,Male,25.0,Amman,Jordan,2023-01-11,consumer
+173,Adam Awwad,Male,33.0,Hebron,Palestine,2022-07-01,consumer
+174,Tareq Yasin,Female,37.0,Ramallah,Palestine,2021-03-01,Corporate
+175,Dana Khalil,Female,36.0,Amman,Jordan,2021-01-29,Corporate
+176,Adam Odeh,Male,42.0,Bethlehem,Palestine,2021-08-29,Corporate 
+177,Lina Hamdan,Female,34.0,Amman,Jordan,2024-12-15,Small Business
+178,Leen Suleiman,,48.0,Bethlehem,Palestine,2022-05-15,Corporate
+179,Adam Khalil,Female,31.0,Hebron,Palestine,2026-03-03,Small Business
+180,Lina Hassan,Female,61.0,Jenin,Palestine,2025-06-02,Small Business
+181,Hala Saleh,Female,40.0,Dubai,UAE,2024-04-02,consumer
+182,Rana Odeh,,25.0,Jenin,Palestine,2022-11-12,Small Business
+183,Rana Nasser,Male,12.0,Istanbul,Turkey,2022-05-05,Small Business
+184,Hala Yasin,Female,38.0,Nablus,Palestine,2022-10-14,Small Business
+185,Adam Odeh,Female,31.0,Tulkarm,Palestine,2024-09-21,Consumer
+186,Maya Khalil,Male,41.0,Amman,Jordan,2024-04-23,Small Business
+187,Leen Hassan,Female,38.0,Ramallah,Palestine,2023-12-14,Corporate 
+188,Adam Khalil,Male,33.0,Tulkarm,Palestine,2025-11-19,consumer
+189,Rana Mahmoud,Female,25.0,Jenin,Palestine,2024-06-30,Consumer
+190,Rana Mansour,Female,18.0,Cairo,Egypt,2025-10-26,Corporate 
+191,Ali Nasser,Female,29.0,Amman,Jordan,2021-03-15,Corporate 
+192,Ali Hamdan,Female,42.0,Hebron,Palestine,2025-03-10,Consumer
+193,Sara Hassan,Male,36.0,Bethlehem,Palestine,2021-12-07,Consumer
+194,Noor Mansour,Female,21.0,Nablus,Palestine,2022-08-24,consumer
+195,Dana Farah,Male,35.0,Hebron,Palestine,2023-12-24,Corporate 
+196,Ali Farah,Male,37.0,Jerusalem,Palestine,2021-12-25,Small Business
+197,Tareq Odeh,Female,25.0,Dubai,UAE,2024-10-31,CONSUMER
+198,Lina Odeh,Male,35.0,Hebron,Palestine,2023-08-03,Small Business
+199,Sara Mahmoud,Male,34.0,Bethlehem,Palestine,2026-01-20,CONSUMER
+200,Noor Farah,Male,22.0,Ramallah,Palestine,2023-06-24,Small Business
+201,Leen Awwad,Female,37.0,Istanbul,Turkey,2022-05-28,Corporate
+202,Tareq Hamdan,Female,39.0,Bethlehem,Palestine,2021-08-07,CONSUMER
+203,Sara Hassan,Female,44.0,Dubai,UAE,2022-08-29,Small Business
+204,Omar Farah,Female,44.0,Gaza,Palestine,2021-01-17,Corporate 
+205,Tareq Farah,Female,20.0,Gaza,Palestine,2025-05-08,Small Business
+206,Sami Farah,Female,24.0,,Palestine,2024-07-27,Small Business
+207,Omar Awwad,Male,39.0,Cairo,Egypt,2021-07-18,Small Business
+208,Noor Yasin,Female,39.0,Nablus,Palestine,2024-04-01,Corporate
+209,Dana Saleh,Male,39.0,Gaza,Palestine,2022-11-01,Corporate
+210,Noor Suleiman,Male,72.0,Amman,Jordan,2025-11-30,CONSUMER
+211,Hala Awwad,Female,39.0,Jerusalem,Palestine,2022-06-11,Corporate 
+212,Ali Saleh,Female,45.0,Ramallah,Palestine,2023-08-18,Small Business
+213,Rana Suleiman,Male,43.0,Cairo,Egypt,2025-01-23,Small Business
+214,Lina Suleiman,Male,40.0,Tulkarm,Palestine,2021-01-29,Consumer
+215,Lina Farah,Female,30.0,,Palestine,2024-10-09,consumer
+216,Tareq Odeh,Female,41.0,Ramallah,Palestine,2024-10-14,Consumer
+217,Ali Mahmoud,Female,26.0,Dubai,UAE,2022-03-30,Small Business
+218,Dana Khalil,Female,31.0,Istanbul,Turkey,2022-09-11,Corporate
+219,Hala Khalil,Male,29.0,Nablus,Palestine,2022-09-16,Consumer
+220,Rana Odeh,Male,34.0,Amman,Jordan,2021-10-05,Small Business
+221,Adam Hamdan,Female,57.0,Dubai,UAE,2025-03-01,Corporate 
+222,Dana Awwad,Male,18.0,Bethlehem,Palestine,2024-06-14,Consumer
+223,Leen Nasser,Female,40.0,,Palestine,2023-06-28,Small Business
+224,Noor Suleiman,Female,18.0,Ramallah,Palestine,2024-11-05,Corporate 
+225,Lina Nasser,Female,29.0,Nablus,Palestine,2023-03-27,Consumer
+226,Sami Mahmoud,Female,44.0,Ramallah,Palestine,2024-09-19,Corporate 
+227,Maya Nasser,Male,34.0,Nablus,Palestine,2025-05-31,Corporate
+228,Sami Farah,Male,23.0,Ramallah,Palestine,2025-08-27,Corporate
+229,Adam Farah,Male,26.0,Jenin,Palestine,2025-05-05,Consumer
+230,Lina Saleh,Female,40.0,Jerusalem,Palestine,2021-09-24,Consumer
+231,Noor Nasser,Male,26.0,Jerusalem,Palestine,2021-01-31,CONSUMER
+232,Lina Hassan,Female,36.0,Nablus,Palestine,2021-12-23,Corporate
+233,Ali Odeh,Female,34.0,Amman,Jordan,2021-08-21,consumer
+234,Yousef Odeh,Female,27.0,Amman,Jordan,2024-04-30,CONSUMER
+235,Sara Odeh,Male,55.0,Dubai,UAE,2021-03-30,Corporate 
+236,Rana Hamdan,Male,40.0,Nablus,Palestine,2023-09-08,Corporate 
+237,Leen Khalil,Male,18.0,Bethlehem,Palestine,2024-12-29,Consumer
+238,Ali Saleh,Female,35.0,Dubai,UAE,2021-10-31,Small Business
+239,Sara Odeh,Female,27.0,Tulkarm,Palestine,2024-05-08,CONSUMER
+240,Yousef Mahmoud,Female,42.0,Ramallah,Palestine,2025-06-13,Corporate 
+241,Tareq Hamdan,Male,26.0,Tulkarm,Palestine,2023-07-14,Small Business
+242,Yousef Mansour,Female,32.0,Tulkarm,Palestine,2023-05-02,consumer
+243,Noor Saleh,Female,39.0,Cairo,Egypt,2022-06-07,Corporate 
+244,Ali Khalil,Female,42.0,Ramallah,Palestine,2021-07-06,consumer
+245,Noor Saleh,Male,21.0,Istanbul,Turkey,2025-02-22,CONSUMER
+246,Maya Mahmoud,Male,30.0,Dubai,UAE,2024-02-25,Consumer
+247,Dana Yasin,Female,29.0,Jenin,Palestine,2025-11-25,Consumer
+248,Noor Khalil,Female,27.0,Dubai,UAE,2022-10-02,CONSUMER
+249,Hala Nasser,Male,51.0,Jerusalem,Palestine,2024-09-06,Small Business
+250,Noor Khalil,Male,38.0,Jenin,Palestine,2025-09-28,Small Business
+251,Dana Suleiman,Female,21.0,Dubai,UAE,2022-04-09,Small Business
+252,Lina Hassan,Male,43.0,Dubai,UAE,2024-09-09,Corporate
+253,Sara Mansour,Female,55.0,Istanbul,Turkey,2025-04-11,Small Business
+254,Adam Farah,Male,44.0,Jerusalem,Palestine,2025-11-17,Corporate 
+255,Ahmed Khalil,Female,,Ramallah,Palestine,2021-10-18,Corporate 
+256,Leen Mansour,Male,29.0,Tulkarm,Palestine,2023-05-10,Corporate
+257,Maya Farah,Female,46.0,Gaza,Palestine,2025-01-17,CONSUMER
+258,Khaled Farah,Male,26.0,Nablus,Palestine,2021-11-15,Consumer
+259,Dana Odeh,Male,38.0,Gaza,Palestine,2023-06-27,CONSUMER
+260,Sami Suleiman,Female,41.0,Tulkarm,Palestine,2022-07-14,Consumer
+261,Sara Mahmoud,Female,24.0,Tulkarm,Palestine,2021-08-16,Corporate 
+262,Sara Hassan,Female,33.0,Amman,Jordan,2024-09-28,Corporate
+263,Ahmed Nasser,Female,18.0,Dubai,UAE,2021-04-23,Small Business
+264,Lina Awwad,Male,23.0,Jerusalem,Palestine,2025-04-15,Small Business
+265,Dana Saleh,Male,31.0,Nablus,Palestine,2023-10-16,Corporate
+266,Tareq Suleiman,Female,21.0,Amman,Jordan,2024-12-12,CONSUMER
+267,Omar Hamdan,Female,50.0,Ramallah,Palestine,2023-03-25,Consumer
+268,Maya Farah,Female,19.0,Ramallah,Palestine,2025-11-01,consumer
+269,Dana Awwad,Female,29.0,Istanbul,Turkey,2024-08-04,Consumer
+270,Khaled Farah,Female,35.0,Nablus,Palestine,2022-10-28,consumer
+271,Yousef Nasser,Female,48.0,Ramallah,Palestine,2023-06-14,consumer
+272,Rana Awwad,Female,19.0,Amman,Jordan,2021-06-11,Corporate 
+273,Khaled Khalil,Female,45.0,Hebron,Palestine,2022-11-14,CONSUMER
+274,Sami Mansour,Male,34.0,Amman,Jordan,2023-11-11,Small Business
+275,Adam Awwad,Male,24.0,Hebron,Palestine,2021-07-30,Corporate
+276,Ali Saleh,Male,38.0,Dubai,UAE,2021-11-10,Small Business
+277,Leen Mahmoud,Female,35.0,Bethlehem,Palestine,2025-03-26,CONSUMER
+278,Adam Odeh,Female,27.0,Cairo,Egypt,2022-10-10,Consumer
+279,Sara Awwad,Female,34.0,Bethlehem,Palestine,2024-07-17,CONSUMER
+280,Ali Awwad,Male,30.0,Jenin,Palestine,2023-11-06,consumer
+281,Noor Awwad,Female,,Nablus,Palestine,2021-04-27,Consumer
+282,Rana Odeh,Male,40.0,Dubai,UAE,2024-05-01,CONSUMER
+283,Sami Mansour,Male,49.0,Bethlehem,Palestine,2026-02-05,CONSUMER
+284,Omar Odeh,Female,21.0,Amman,Jordan,2021-11-05,Consumer
+285,Khaled Hassan,Female,55.0,Istanbul,Turkey,2021-06-22,Corporate
+286,Khaled Mansour,Female,18.0,Bethlehem,Palestine,2023-12-10,Small Business
+287,Maya Mahmoud,Female,32.0,Tulkarm,Palestine,2023-04-18,CONSUMER
+288,Maya Khalil,Male,39.0,Cairo,Egypt,2024-08-18,Small Business
+289,Rana Awwad,Male,36.0,Amman,Jordan,2024-10-21,Small Business
+290,Adam Mansour,Male,27.0,Jenin,Palestine,2021-06-16,Small Business
+291,Ali Awwad,Female,31.0,Jerusalem,Palestine,2024-05-03,CONSUMER
+292,Maya Saleh,Female,29.0,Cairo,Egypt,2025-06-10,Corporate 
+293,Dana Suleiman,Male,28.0,Cairo,Egypt,2024-10-05,Small Business
+294,Khaled Nasser,Male,42.0,Jenin,Palestine,2022-09-25,Small Business
+295,Adam Saleh,Female,37.0,Hebron,Palestine,2022-04-09,Consumer
+296,Omar Mahmoud,Female,27.0,Ramallah,Palestine,2023-11-06,Small Business
+297,Adam Saleh,Male,42.0,Dubai,UAE,2023-02-11,Corporate
+298,Omar Hamdan,Male,37.0,,Turkey,2023-06-16,Small Business
+299,Sara Yasin,Male,42.0,Bethlehem,Palestine,2024-06-04,Small Business
+300,Tareq Awwad,Female,40.0,Hebron,Palestine,2023-12-30,Small Business
+301,Leen Odeh,Female,25.0,Hebron,Palestine,2023-01-24,Small Business
+302,Dana Saleh,Female,,Tulkarm,Palestine,2023-10-27,Small Business
+303,Lina Hassan,Male,41.0,Dubai,UAE,2021-10-11,Corporate 
+304,Yousef Yasin,Female,40.0,Jenin,Palestine,2024-02-10,Small Business
+305,Khaled Awwad,Male,33.0,Gaza,Palestine,2021-06-21,consumer
+306,Tareq Odeh,Male,35.0,Tulkarm,Palestine,2021-07-07,Small Business
+307,Rana Suleiman,Male,,Tulkarm,Palestine,2021-04-20,Small Business
+308,Noor Nasser,Male,28.0,Tulkarm,Palestine,2021-06-17,Consumer
+309,Maya Saleh,Female,39.0,Ramallah,Palestine,2025-09-15,Corporate
+310,Hala Yasin,Male,31.0,Gaza,Palestine,2026-02-22,Small Business
+311,Leen Farah,Male,31.0,Istanbul,Turkey,2023-08-19,Consumer
+312,Sami Saleh,Male,44.0,Nablus,Palestine,2022-06-09,CONSUMER
+313,Sara Nasser,Female,42.0,Ramallah,Palestine,2025-05-09,Small Business
+314,Dana Mahmoud,Male,42.0,Nablus,Palestine,2022-05-04,Small Business
+315,Hala Farah,Female,47.0,Ramallah,Palestine,2021-08-16,CONSUMER
+316,Tareq Yasin,Male,34.0,Cairo,Egypt,2023-11-22,Corporate
+317,Noor Nasser,Female,40.0,Tulkarm,Palestine,2021-01-04,CONSUMER
+318,Ali Suleiman,Female,30.0,Jerusalem,Palestine,2024-09-22,Small Business
+319,Ahmed Hamdan,Male,37.0,Amman,Jordan,2024-01-20,Small Business
+320,Rana Mansour,Female,32.0,Nablus,Palestine,2024-07-25,Small Business
+321,Ali Mansour,Male,34.0,Jenin,Palestine,2025-06-03,Corporate
+322,Maya Saleh,Male,39.0,,UAE,2025-02-14,Consumer
+323,Khaled Mahmoud,Female,25.0,Amman,Jordan,2022-11-25,consumer
+324,Adam Khalil,Female,54.0,Cairo,Egypt,2022-01-09,Corporate 
+325,Sami Hassan,Female,23.0,Nablus,Palestine,2022-08-24,Small Business
+326,Sara Suleiman,Male,21.0,Nablus,Palestine,2022-10-09,consumer
+327,Sami Awwad,Female,45.0,Gaza,Palestine,2021-03-16,Small Business
+328,Lina Khalil,Male,41.0,Cairo,Egypt,2022-11-11,Small Business
+329,Rana Yasin,Female,40.0,Tulkarm,Palestine,2025-12-27,consumer
+330,Hala Yasin,,40.0,Jenin,Palestine,2022-01-18,consumer
+331,Ali Yasin,Female,150.0,Amman,Jordan,2022-07-01,consumer
+332,Khaled Suleiman,Male,25.0,Tulkarm,Palestine,2024-05-18,Small Business
+333,Maya Mahmoud,Female,34.0,Ramallah,Palestine,2021-06-13,Small Business
+334,Dana Saleh,Female,27.0,Bethlehem,Palestine,2024-05-19,Corporate 
+335,Omar Yasin,Female,43.0,Jenin,Palestine,2023-07-05,Small Business
+336,Lina Mahmoud,Female,32.0,Dubai,UAE,2023-06-10,Small Business
+337,Rana Mansour,Male,25.0,Ramallah,Palestine,2024-10-06,CONSUMER
+338,Leen Hassan,Male,30.0,Nablus,Palestine,2021-10-20,Corporate
+339,Noor Mansour,Male,38.0,Hebron,Palestine,2025-05-14,consumer
+340,Leen Mansour,Male,28.0,Dubai,UAE,2021-11-11,Small Business
+341,Adam Suleiman,Female,25.0,Ramallah,Palestine,2024-03-21,Small Business
+342,Lina Nasser,Female,36.0,Jenin,Palestine,2024-08-23,Consumer
+343,Hala Suleiman,Male,36.0,Istanbul,Turkey,2022-01-17,consumer
+344,Lina Yasin,Male,28.0,Gaza,Palestine,2025-05-07,consumer
+345,Hala Nasser,Male,29.0,Dubai,UAE,2022-08-08,Consumer
+346,Khaled Yasin,Male,36.0,Ramallah,Palestine,2023-07-15,consumer
+347,Maya Mahmoud,Male,19.0,Cairo,Egypt,2025-09-28,Small Business
+348,Sara Awwad,Male,19.0,Amman,Jordan,2024-01-16,Small Business
+349,Khaled Mansour,Male,26.0,Istanbul,Turkey,2024-12-24,CONSUMER
+350,Adam Nasser,Male,31.0,Ramallah,Palestine,2022-02-16,Small Business
+351,Noor Odeh,Female,37.0,Nablus,Palestine,2023-01-10,Small Business
+352,Ali Khalil,Male,,Dubai,UAE,2025-12-16,Small Business
+353,Hala Suleiman,Female,42.0,Istanbul,Turkey,2025-01-12,consumer
+354,Adam Mansour,Female,32.0,,UAE,2021-06-01,Corporate 
+355,Noor Saleh,Male,33.0,Bethlehem,Palestine,2023-08-13,Small Business
+356,Omar Khalil,Male,23.0,Jerusalem,Palestine,2023-06-06,CONSUMER
+357,Khaled Mansour,Male,33.0,Gaza,Palestine,2021-12-04,Corporate 
+358,Sara Khalil,Male,31.0,Jenin,Palestine,2023-11-29,Small Business
+359,Lina Saleh,Male,37.0,Cairo,Egypt,2024-02-03,Corporate 
+360,Ali Suleiman,Female,25.0,Dubai,UAE,2023-12-29,Corporate 
+361,Adam Saleh,Male,39.0,Dubai,UAE,2024-04-04,Corporate 
+362,Ahmed Khalil,Female,49.0,Dubai,UAE,2021-03-26,Consumer
+363,Dana Farah,Female,32.0,Cairo,Egypt,2022-03-08,Corporate 
+364,Sara Mahmoud,Male,38.0,Bethlehem,Palestine,2025-12-26,Small Business
+365,Rana Awwad,Female,40.0,Hebron,Palestine,2025-07-07,consumer
+366,Khaled Odeh,Male,29.0,Istanbul,Turkey,2021-05-03,consumer
+367,Maya Farah,Female,36.0,Bethlehem,Palestine,2022-02-22,Corporate
+368,Noor Hamdan,Female,34.0,Istanbul,Turkey,2022-10-16,Corporate
+369,Yousef Mansour,Female,34.0,Amman,Jordan,2024-02-25,Corporate
+370,Leen Nasser,Female,26.0,Ramallah,Palestine,2022-07-02,Corporate
+371,Rana Farah,Male,34.0,Nablus,Palestine,2022-08-18,consumer
+372,Maya Farah,Male,38.0,Jerusalem,Palestine,2025-07-25,Corporate 
+373,Khaled Odeh,Female,48.0,Hebron,Palestine,2025-04-12,CONSUMER
+374,Sara Odeh,Female,43.0,Bethlehem,Palestine,2025-12-06,Consumer
+375,Leen Nasser,Male,55.0,Tulkarm,Palestine,2023-11-02,Corporate
+376,Sara Odeh,Female,26.0,Nablus,Palestine,2021-04-14,CONSUMER
+377,Ahmed Khalil,Female,42.0,Gaza,Palestine,2024-01-05,consumer
+378,Noor Hamdan,Male,35.0,Gaza,Palestine,2025-01-29,Small Business
+379,Sami Mansour,Male,55.0,Tulkarm,Palestine,2021-04-15,CONSUMER
+380,Leen Suleiman,Female,25.0,Ramallah,Palestine,2023-03-03,Small Business
+381,Rana Mansour,Male,25.0,Jerusalem,Palestine,2021-07-18,Small Business
+382,Adam Nasser,Female,28.0,Amman,Jordan,2023-01-19,CONSUMER
+383,Omar Hassan,Female,18.0,Amman,Jordan,2021-03-24,Corporate
+384,Leen Saleh,Female,28.0,Bethlehem,Palestine,2023-11-30,CONSUMER
+385,Maya Saleh,Male,26.0,Jenin,Palestine,2024-06-09,consumer
+386,Hala Yasin,Female,35.0,Dubai,UAE,2022-11-20,CONSUMER
+387,Ahmed Mansour,Female,37.0,Bethlehem,Palestine,2025-07-29,Small Business
+388,Sara Yasin,Male,52.0,Tulkarm,Palestine,2024-04-10,Small Business
+389,Lina Mahmoud,Male,43.0,Dubai,UAE,2023-08-30,Small Business
+390,Hala Saleh,Male,28.0,Istanbul,Turkey,2021-04-16,CONSUMER
+391,Tareq Hassan,Female,25.0,Jerusalem,Palestine,not_available,CONSUMER
+392,Leen Mansour,Male,38.0,Hebron,Palestine,2021-02-08,consumer
+393,Sami Hamdan,Male,20.0,Tulkarm,Palestine,2024-11-15,CONSUMER
+394,Omar Yasin,,52.0,Istanbul,Turkey,2025-01-29,Corporate
+395,Hala Suleiman,Male,45.0,Amman,Jordan,2022-10-28,consumer
+396,Maya Suleiman,Female,29.0,Jerusalem,Palestine,2023-07-31,Small Business
+397,Sami Nasser,,18.0,Dubai,UAE,2023-09-19,Small Business
+398,Sara Yasin,Female,47.0,Hebron,Palestine,2022-09-02,Corporate
+399,Noor Suleiman,Female,32.0,Jenin,Palestine,2023-09-10,Small Business
+400,Rana Hamdan,Female,46.0,Gaza,Palestine,2021-09-07,Small Business
+401,Omar Awwad,Female,18.0,Jerusalem,Palestine,2022-08-18,Corporate 
+402,Leen Mahmoud,Male,28.0,Jenin,Palestine,2026-03-08,Small Business
+403,Lina Suleiman,Female,34.0,Hebron,Palestine,2022-02-18,Corporate 
+404,Tareq Nasser,Female,34.0,Jerusalem,Palestine,2021-08-12,Consumer
+405,Omar Khalil,Male,29.0,Cairo,Egypt,2022-04-22,consumer
+406,Yousef Mahmoud,Female,40.0,Istanbul,Turkey,2023-08-26,Small Business
+407,Khaled Hamdan,Male,23.0,Nablus,Palestine,2024-02-02,Corporate 
+408,Sami Awwad,Female,,Bethlehem,Palestine,2024-08-25,Small Business
+409,Ali Mahmoud,Female,35.0,Cairo,Egypt,2021-05-02,CONSUMER
+410,Omar Saleh,Male,39.0,Amman,Jordan,2025-02-21,consumer
+411,Rana Odeh,Male,41.0,Nablus,Palestine,2025-09-09,Corporate
+412,Sara Farah,Female,22.0,Nablus,Palestine,2021-01-19,CONSUMER
+413,Leen Mahmoud,Male,18.0,Jenin,Palestine,2022-08-06,CONSUMER
+414,Leen Awwad,Female,46.0,Jerusalem,Palestine,2025-10-09,Corporate
+415,Leen Mahmoud,Male,37.0,Jenin,Palestine,2021-11-29,Small Business
+416,Maya Awwad,Male,26.0,Nablus,Palestine,2025-02-17,CONSUMER
+417,Rana Hamdan,Male,49.0,Jerusalem,Palestine,2024-06-05,CONSUMER
+418,Yousef Saleh,Female,35.0,Ramallah,Palestine,2023-04-01,Corporate
+419,Ahmed Awwad,Female,45.0,Jenin,Palestine,2022-05-24,consumer
+420,Lina Mansour,Male,34.0,Bethlehem,Palestine,2025-03-24,Small Business
+421,Noor Yasin,Male,54.0,Gaza,Palestine,2024-08-31,Corporate
+422,Leen Awwad,Male,51.0,Cairo,Egypt,2021-08-31,Corporate
+423,Sara Yasin,Female,,Cairo,Egypt,2023-10-27,Consumer
+424,Tareq Nasser,Female,43.0,Jenin,Palestine,2024-06-12,Corporate
+425,Noor Hamdan,Female,40.0,Jerusalem,Palestine,2023-07-21,Corporate 
+426,Sami Nasser,Female,47.0,Amman,Jordan,2025-07-01,Corporate 
+427,Noor Khalil,Male,24.0,Amman,Jordan,2023-07-04,CONSUMER
+428,Sami Farah,Male,40.0,Nablus,Palestine,2025-08-25,CONSUMER
+429,Leen Khalil,,44.0,Jerusalem,Palestine,2022-11-03,Corporate 
+430,Hala Khalil,Male,18.0,Istanbul,Turkey,2024-04-09,CONSUMER
+431,Adam Suleiman,Female,22.0,Nablus,Palestine,2023-07-18,consumer
+432,Leen Mahmoud,Female,18.0,Dubai,UAE,2021-04-29,Small Business
+433,Rana Awwad,Female,31.0,Istanbul,Turkey,2024-02-31,Small Business
+434,Ali Hassan,Male,41.0,Istanbul,Turkey,2022-03-23,consumer
+435,Omar Khalil,Female,49.0,Istanbul,Turkey,2021-05-11,consumer
+436,Khaled Saleh,Male,34.0,Gaza,Palestine,2023-04-18,Small Business
+437,Rana Odeh,Female,50.0,Jenin,Palestine,2025-12-31,Small Business
+438,Adam Mahmoud,Female,20.0,Tulkarm,Palestine,2021-06-14,Small Business
+439,Rana Suleiman,Female,18.0,Ramallah,Palestine,2022-01-01,Corporate
+440,Ahmed Awwad,Male,33.0,Nablus,Palestine,2025-03-29,consumer
+441,Tareq Nasser,Female,37.0,Amman,Jordan,2023-02-16,consumer
+442,Sami Yasin,Female,33.0,Jerusalem,Palestine,2022-07-19,Small Business
+443,Dana Farah,Male,18.0,Nablus,Palestine,2025-07-16,Small Business
+444,Ali Khalil,,33.0,Hebron,Palestine,2022-02-27,CONSUMER
+445,Omar Nasser,Male,20.0,Bethlehem,Palestine,2024-05-09,Corporate 
+446,Tareq Suleiman,Male,40.0,Tulkarm,Palestine,2023-06-18,Corporate
+447,Sara Nasser,Male,37.0,Jerusalem,Palestine,2023-10-29,Small Business
+448,Maya Nasser,Female,24.0,Dubai,UAE,2024-05-09,Small Business
+449,Tareq Hamdan,Male,28.0,Cairo,Egypt,2023-12-04,Small Business
+450,Khaled Mahmoud,Female,23.0,Nablus,Palestine,2024-02-15,Corporate 
+451,Omar Mansour,Female,33.0,Amman,Jordan,2023-10-13,Corporate 
+452,Dana Hamdan,Female,43.0,Amman,Jordan,2022-10-15,Corporate
+453,Hala Nasser,Female,24.0,Tulkarm,Palestine,2022-01-12,Small Business
+454,Adam Odeh,Male,39.0,Gaza,Palestine,2025-10-23,Consumer
+455,Adam Hamdan,Female,28.0,Tulkarm,Palestine,2024-02-16,Corporate
+456,Ali Odeh,Female,26.0,Hebron,Palestine,2022-11-08,Small Business
+457,Sami Hassan,Female,32.0,Ramallah,Palestine,2024-01-02,Small Business
+458,Omar Khalil,Female,23.0,Cairo,Egypt,2024-05-23,Corporate
+459,Maya Awwad,Male,28.0,Bethlehem,Palestine,2022-03-04,Consumer
+460,Yousef Yasin,Male,22.0,Hebron,Palestine,2025-02-27,Small Business
+461,Sami Hamdan,Female,53.0,Hebron,Palestine,2024-11-25,Corporate
+462,Leen Suleiman,Female,34.0,Gaza,Palestine,2023-02-19,Corporate 
+463,Noor Suleiman,Female,27.0,Gaza,Palestine,2022-06-20,consumer
+464,Hala Mansour,Female,,Ramallah,Palestine,2025-07-03,Corporate
+465,Omar Farah,Female,32.0,Jenin,Palestine,2023-04-28,Small Business
+466,Ahmed Awwad,Male,31.0,Istanbul,Turkey,2021-10-26,CONSUMER
+467,Sami Mansour,Female,40.0,Gaza,Palestine,2021-11-09,Corporate
+468,Tareq Odeh,Female,41.0,Dubai,UAE,2025-09-03,CONSUMER
+469,Hala Yasin,Female,28.0,Gaza,Palestine,2025-04-13,Corporate 
+470,Noor Saleh,Female,28.0,Bethlehem,Palestine,2021-12-11,Corporate
+471,Omar Suleiman,Female,31.0,Jerusalem,Palestine,2026-02-21,Consumer
+472,Ahmed Hamdan,Male,18.0,Cairo,Egypt,2021-04-10,Corporate
+473,Adam Hassan,Male,18.0,Ramallah,Palestine,2024-12-19,Corporate
+474,Hala Mahmoud,Female,47.0,Jenin,Palestine,2021-05-04,consumer
+475,Dana Hassan,Male,50.0,Nablus,Palestine,2023-12-26,Consumer
+476,Ahmed Suleiman,Female,31.0,Amman,Jordan,2022-08-11,Small Business
+477,Yousef Suleiman,Female,39.0,Jerusalem,Palestine,2021-08-08,Corporate
+478,Lina Mansour,Male,37.0,Hebron,Palestine,2024-06-23,Small Business
+479,Rana Odeh,Female,64.0,Ramallah,Palestine,2023-02-04,CONSUMER
+480,Sara Mahmoud,Male,45.0,Istanbul,Turkey,2022-04-08,Small Business
+481,Omar Khalil,Male,32.0,Cairo,Egypt,2025-10-24,consumer
+482,Hala Hassan,Female,24.0,Tulkarm,Palestine,2024-02-06,Corporate 
+483,Ali Odeh,Male,18.0,Istanbul,Turkey,2021-12-17,Small Business
+484,Maya Farah,Female,36.0,Cairo,Egypt,2025-05-26,Small Business
+485,Omar Nasser,Male,26.0,Amman,Jordan,2026-02-26,Corporate
+486,Ali Mahmoud,Female,19.0,Gaza,Palestine,2021-04-06,Small Business
+487,Maya Hassan,Male,27.0,Jerusalem,Palestine,2025-10-08,Corporate
+488,Rana Khalil,Male,23.0,Istanbul,Turkey,2025-08-09,Small Business
+489,Rana Mahmoud,Male,50.0,Dubai,UAE,2022-05-08,CONSUMER
+490,Adam Yasin,Female,42.0,Tulkarm,Palestine,2025-03-28,Corporate 
+491,Noor Hassan,Male,33.0,Amman,Jordan,2025-03-07,Consumer
+492,Ali Mansour,Female,48.0,Hebron,Palestine,2025-09-14,CONSUMER
+493,Lina Odeh,Female,34.0,Jenin,Palestine,2021-03-02,consumer
+494,Rana Hamdan,Male,25.0,Jenin,Palestine,2024-02-07,Corporate
+495,Sara Nasser,,49.0,Ramallah,Palestine,2025-05-01,Corporate 
+496,Adam Hamdan,Male,39.0,Ramallah,Palestine,2022-07-03,Corporate 
+497,Maya Mansour,Male,23.0,Istanbul,Turkey,2023-03-09,Consumer
+498,Leen Mansour,Male,32.0,Nablus,Palestine,2022-09-24,Small Business
+499,Ali Saleh,Female,25.0,Ramallah,Palestine,2021-09-29,consumer
+500,Dana Khalil,Female,20.0,Amman,Jordan,2024-02-11,Consumer
+501,Ali Farah,Male,43.0,Jenin,Palestine,2024-02-10,CONSUMER
+502,Sara Hamdan,Female,53.0,Tulkarm,Palestine,2021-01-26,consumer
+503,Tareq Farah,Male,20.0,Istanbul,Turkey,2026-01-20,CONSUMER
+504,Khaled Saleh,Male,39.0,Cairo,Egypt,2023-02-19,Small Business
+505,Adam Khalil,Female,27.0,Gaza,Palestine,2023-10-07,Corporate
+506,Sara Odeh,Female,29.0,Gaza,Palestine,2023-05-13,Small Business
+507,Tareq Yasin,Male,28.0,Jenin,Palestine,2022-05-31,Corporate 
+508,Sami Odeh,Female,25.0,Dubai,UAE,2024-06-16,Consumer
+509,Rana Mansour,Male,34.0,Gaza,Palestine,2021-01-14,Small Business
+510,Maya Hamdan,Female,25.0,Jenin,Palestine,2023-06-21,Small Business
+511,Sami Odeh,Male,36.0,Gaza,Palestine,2022-10-19,Small Business
+512,Sara Yasin,Male,33.0,Tulkarm,Palestine,2022-10-16,Corporate 
+513,Tareq Mansour,Female,31.0,Dubai,UAE,2025-05-21,consumer
+514,Yousef Farah,Female,24.0,Tulkarm,Palestine,2023-01-18,Corporate
+515,Ahmed Yasin,Male,28.0,Cairo,Egypt,2025-04-22,consumer
+516,Sara Yasin,Male,999.0,Bethlehem,Palestine,2025-06-22,Consumer
+517,Adam Mahmoud,,39.0,Cairo,Egypt,2023-10-20,Small Business
+518,Adam Yasin,Male,24.0,Gaza,Palestine,2024-09-10,consumer
+519,Hala Farah,Female,34.0,Ramallah,Palestine,2023-07-09,consumer
+520,Noor Yasin,Female,41.0,Amman,Jordan,2021-03-17,Small Business
+521,Tareq Mahmoud,,18.0,Ramallah,Palestine,2025-04-24,Corporate 
+522,Omar Farah,Female,39.0,Jerusalem,Palestine,2024-08-18,Corporate 
+523,Dana Khalil,Female,27.0,Jenin,Palestine,2025-06-19,Consumer
+524,Tareq Odeh,Male,39.0,Gaza,Palestine,2022-03-31,Small Business
+525,Adam Mansour,Female,,Bethlehem,Palestine,2025-05-01,Consumer
+526,Dana Khalil,Female,18.0,Ramallah,Palestine,2022-08-29,Consumer
+527,Maya Odeh,Male,18.0,Jenin,Palestine,2022-10-01,Small Business
+528,Noor Odeh,Male,34.0,Amman,Jordan,2023-09-17,Consumer
+529,Leen Mansour,Female,36.0,Istanbul,Turkey,2024-11-27,Consumer
+530,Yousef Hassan,Female,24.0,Nablus,Palestine,2025-07-18,Small Business
+531,Khaled Yasin,Female,40.0,Cairo,Egypt,2021-08-12,Corporate
+532,Maya Suleiman,Male,18.0,Amman,Jordan,2021-11-24,consumer
+533,Rana Mahmoud,Female,33.0,Hebron,Palestine,2025-06-22,Corporate
+534,Dana Hamdan,Male,21.0,Cairo,Egypt,2024-09-08,Consumer
+535,Dana Hamdan,Male,27.0,Bethlehem,Palestine,2024-04-27,Consumer
+536,Ali Farah,Male,34.0,Hebron,Palestine,2025-13-40,Consumer
+537,Sami Odeh,Male,25.0,Jenin,Palestine,2022-10-30,Consumer
+538,Hala Suleiman,Female,30.0,Cairo,Egypt,2025-11-02,Corporate 
+539,Rana Farah,Female,44.0,Dubai,UAE,2023-03-07,Consumer
+540,Leen Farah,Female,28.0,Jenin,Palestine,2025-09-28,Corporate
+541,Ali Mahmoud,Female,42.0,Dubai,UAE,2024-04-23,Corporate
+542,Sara Khalil,Female,22.0,Ramallah,Palestine,2022-05-04,Corporate
+543,Rana Hamdan,Female,39.0,Istanbul,Turkey,2021-10-17,CONSUMER
+544,Dana Saleh,,48.0,Dubai,UAE,2023-02-25,consumer
+545,Hala Awwad,Male,18.0,Amman,Jordan,2021-12-08,Corporate
+546,Leen Farah,Male,26.0,Jenin,Palestine,2025-09-21,Consumer
+547,Adam Nasser,Female,39.0,Nablus,Palestine,2023-09-20,Small Business
+548,Hala Hamdan,Female,31.0,Amman,Jordan,2023-11-02,Corporate 
+549,Leen Odeh,Female,37.0,Tulkarm,Palestine,2024-12-25,Corporate
+550,Tareq Awwad,Male,27.0,Dubai,UAE,2021-03-05,Consumer
+551,Sara Saleh,Female,34.0,Hebron,Palestine,2024-01-07,Small Business
+552,Hala Suleiman,Female,32.0,Dubai,UAE,2025-03-01,CONSUMER
+553,Lina Suleiman,Male,45.0,Dubai,UAE,2021-08-22,Small Business
+554,Omar Yasin,Female,36.0,Amman,Jordan,2025-08-12,consumer
+555,Tareq Awwad,Male,37.0,Tulkarm,Palestine,2021-07-29,Small Business
+556,Noor Khalil,Male,150.0,Bethlehem,Palestine,2022-06-23,consumer
+557,Noor Yasin,Male,29.0,Hebron,Palestine,2022-03-06,CONSUMER
+558,Adam Nasser,Female,29.0,Jerusalem,Palestine,2024-06-15,Small Business
+559,Noor Suleiman,Male,37.0,Nablus,Palestine,2024-03-13,Small Business
+560,Sara Awwad,Male,29.0,Jenin,Palestine,2024-12-12,CONSUMER
+561,Yousef Saleh,Female,36.0,,Jordan,2026-01-18,Small Business
+562,Adam Yasin,Female,54.0,Nablus,Palestine,2022-07-22,Small Business
+563,Maya Nasser,Male,42.0,Hebron,Palestine,2021-10-27,Small Business
+564,Lina Mahmoud,Female,30.0,Bethlehem,Palestine,2021-10-19,consumer
+565,Ali Hamdan,Female,46.0,Bethlehem,Palestine,2021-06-04,CONSUMER
+566,Noor Odeh,Female,29.0,Istanbul,Turkey,2025-12-02,consumer
+567,Ali Yasin,,18.0,,UAE,2021-01-06,consumer
+568,Rana Nasser,Female,23.0,Ramallah,Palestine,2025-06-18,consumer
+569,Maya Awwad,Male,18.0,Bethlehem,Palestine,2022-07-04,Small Business
+570,Hala Mansour,Male,30.0,Dubai,UAE,2025-10-12,Corporate 
+571,Leen Hassan,Male,34.0,Nablus,Palestine,2021-07-23,Consumer
+572,Ahmed Hamdan,Male,50.0,Bethlehem,Palestine,2023-07-24,Corporate
+573,Khaled Awwad,Male,37.0,Cairo,Egypt,2022-09-11,Consumer
+574,Noor Mahmoud,Female,31.0,Gaza,Palestine,2021-06-18,Corporate 
+575,Sara Yasin,Male,42.0,Nablus,Palestine,2023-03-23,Corporate 
+576,Ali Yasin,Male,18.0,Tulkarm,Palestine,2024-09-04,Consumer
+577,Ali Saleh,Male,36.0,Hebron,Palestine,2023-09-04,CONSUMER
+578,Leen Hassan,Male,41.0,Amman,Jordan,2024-10-24,Consumer
+579,Dana Yasin,Female,19.0,Ramallah,Palestine,2025-10-28,Corporate
+580,Rana Khalil,Female,45.0,Ramallah,Palestine,2022-04-14,Corporate 
+581,Noor Awwad,Male,37.0,Ramallah,Palestine,2022-10-04,Corporate
+582,Adam Khalil,Female,29.0,Jerusalem,Palestine,2024-08-06,CONSUMER
+583,Khaled Odeh,Male,40.0,Dubai,UAE,2024-08-24,Small Business
+584,Adam Hamdan,Male,56.0,Cairo,Egypt,2025-03-13,CONSUMER
+585,Yousef Saleh,Female,35.0,Hebron,Palestine,2021-06-27,Small Business
+586,Rana Mansour,Male,36.0,Dubai,UAE,2025-02-04,consumer
+587,Lina Mahmoud,Female,29.0,Jerusalem,Palestine,2022-05-23,Consumer
+588,Sara Yasin,Male,25.0,Amman,Jordan,2024-05-15,Consumer
+589,Sami Yasin,Female,42.0,Hebron,Palestine,2023-11-27,consumer
+590,Tareq Odeh,Female,25.0,Cairo,Egypt,2021-04-22,consumer
+591,Ali Suleiman,Male,34.0,Hebron,Palestine,2023-10-21,Consumer
+592,Rana Farah,Female,29.0,Jenin,Palestine,2021-09-28,consumer
+593,Khaled Odeh,,38.0,Amman,Jordan,2024-10-30,Small Business
+594,Ali Hassan,Male,37.0,Nablus,Palestine,2024-04-17,Small Business
+595,Omar Hamdan,Male,44.0,Nablus,Palestine,2026-03-05,CONSUMER
+596,Dana Hamdan,Female,28.0,Cairo,Egypt,2024-12-30,Corporate 
+597,Adam Awwad,Female,31.0,Ramallah,Palestine,2024-08-04,Consumer
+598,Sami Saleh,Female,24.0,Ramallah,Palestine,2023-11-14,CONSUMER
+599,Ali Awwad,Female,29.0,Tulkarm,Palestine,2024-04-16,Corporate 
+600,Tareq Hassan,,37.0,Istanbul,Turkey,2025-09-30,Corporate
+601,Leen Farah,Male,41.0,Tulkarm,Palestine,2021-08-26,CONSUMER
+602,Khaled Khalil,Male,24.0,Gaza,Palestine,2024-09-26,Consumer
+603,Khaled Odeh,Male,42.0,Istanbul,Turkey,2021-01-24,Small Business
+604,Adam Yasin,Female,47.0,Jerusalem,Palestine,2023-02-01,Small Business
+605,Yousef Hassan,Female,38.0,Istanbul,Turkey,2025-12-21,Small Business
+606,Ali Awwad,Female,52.0,Gaza,Palestine,2023-12-09,Corporate 
+607,Noor Hassan,Male,26.0,Bethlehem,Palestine,2023-07-22,consumer
+608,Lina Khalil,Male,21.0,Jenin,Palestine,2021-11-19,CONSUMER
+609,Ahmed Hassan,Male,18.0,Hebron,Palestine,2025-02-26,Small Business
+610,Hala Mansour,Male,48.0,Hebron,Palestine,2021-04-05,consumer
+611,Omar Suleiman,Male,40.0,Jerusalem,Palestine,2025-10-23,Small Business
+612,Tareq Hamdan,Female,33.0,Hebron,Palestine,2022-10-22,Corporate 
+613,Ali Farah,Female,36.0,Gaza,Palestine,2025-08-19,Small Business
+614,Omar Saleh,Male,22.0,Amman,Jordan,2024-10-10,Corporate
+615,Leen Awwad,,58.0,Tulkarm,Palestine,2021-05-22,Small Business
+616,Leen Hassan,Female,35.0,Jenin,Palestine,2021-06-26,Small Business
+617,Sara Yasin,Male,,Gaza,Palestine,2024-02-29,CONSUMER
+618,Hala Nasser,Male,41.0,Bethlehem,Palestine,2023-01-25,Corporate 
+619,Dana Hassan,Male,38.0,Jerusalem,Palestine,2021-01-14,Corporate
+620,Ahmed Mansour,Female,36.0,Cairo,Egypt,2025-09-16,Consumer
+621,Sara Khalil,,26.0,Istanbul,Turkey,2025-01-29,Corporate
+622,Omar Saleh,Male,38.0,Tulkarm,Palestine,2023-10-05,Corporate 
+623,Tareq Suleiman,Female,52.0,Ramallah,Palestine,2021-03-31,consumer
+624,Ali Farah,Female,,Bethlehem,Palestine,2025-03-12,Consumer
+625,Rana Khalil,Male,49.0,Cairo,Egypt,2025-08-07,CONSUMER
+626,Adam Nasser,Male,28.0,Tulkarm,Palestine,2024-09-18,Small Business
+627,Rana Yasin,Female,24.0,Jenin,Palestine,2026-03-12,Small Business
+628,Lina Nasser,Female,32.0,Jenin,Palestine,2023-07-17,Consumer
+629,Yousef Saleh,Male,34.0,Jerusalem,Palestine,2025-05-17,Consumer
+630,Maya Hamdan,Male,44.0,Bethlehem,Palestine,2023-08-13,Consumer
+631,Sara Odeh,Female,18.0,Hebron,Palestine,2023-07-15,Small Business
+632,Sara Yasin,Male,49.0,Ramallah,Palestine,2021-11-19,Corporate 
+633,Maya Saleh,Male,32.0,Hebron,Palestine,2025-09-08,Consumer
+634,Omar Mahmoud,Male,29.0,Jenin,Palestine,2023-03-23,Small Business
+635,Rana Odeh,Female,23.0,Jerusalem,Palestine,2021-03-05,CONSUMER
+636,Yousef Saleh,Male,18.0,Ramallah,Palestine,2023-08-05,Consumer
+637,Tareq Saleh,Male,42.0,Nablus,Palestine,2025-08-28,Corporate
+638,Ali Farah,Female,34.0,Jenin,Palestine,2024-11-06,CONSUMER
+639,Ali Nasser,Female,21.0,Ramallah,Palestine,2021-02-14,Corporate 
+640,Maya Khalil,Female,21.0,,Palestine,2021-07-08,Consumer
+641,Dana Yasin,Female,30.0,Nablus,Palestine,2021-12-11,consumer
+642,Dana Saleh,Female,50.0,Nablus,Palestine,2023-02-23,Small Business
+643,Lina Odeh,Male,31.0,Jerusalem,Palestine,2022-07-18,Corporate
+644,Tareq Mahmoud,Male,18.0,Dubai,UAE,2024-06-22,Small Business
+645,Hala Hassan,Female,31.0,Tulkarm,Palestine,2025-12-13,Consumer
+646,Dana Nasser,Female,31.0,Tulkarm,Palestine,2021-10-09,Corporate 
+647,Ahmed Hamdan,Male,18.0,Cairo,Egypt,2025-07-01,Small Business
+648,Hala Mansour,Female,33.0,,Palestine,2024-01-21,CONSUMER
+649,Khaled Hassan,Female,31.0,Tulkarm,Palestine,2022-07-08,Small Business
+650,Lina Hassan,Male,40.0,Nablus,Palestine,2026-01-09,Small Business
+651,Tareq Saleh,Female,52.0,Amman,Jordan,2023-01-03,Consumer
+652,Lina Suleiman,Male,45.0,Cairo,Egypt,2022-05-09,Small Business
+653,Rana Mansour,Male,999.0,Hebron,Palestine,2024-03-25,Small Business
+654,Maya Yasin,Male,22.0,Jerusalem,Palestine,2022-04-30,Corporate 
+655,Noor Farah,Female,59.0,Dubai,UAE,2021-02-27,CONSUMER
+656,Hala Suleiman,Male,34.0,Dubai,UAE,2022-01-21,Small Business
+657,Ali Hassan,Male,34.0,Bethlehem,Palestine,2021-03-19,Corporate
+658,Hala Hassan,Male,33.0,Nablus,Palestine,2023-12-15,Small Business
+659,Khaled Mansour,Male,35.0,Jerusalem,Palestine,2022-11-29,Consumer
+660,Adam Khalil,Male,32.0,Jerusalem,Palestine,2024-04-16,Small Business
+661,Rana Farah,Female,28.0,Ramallah,Palestine,2023-02-05,Consumer
+662,Adam Saleh,Female,28.0,Gaza,Palestine,2022-10-23,Corporate 
+663,Maya Saleh,Female,33.0,Cairo,Egypt,2023-09-25,Corporate 
+664,Khaled Hamdan,Female,28.0,Hebron,Palestine,2024-09-25,Small Business
+665,Ahmed Yasin,Female,26.0,Jerusalem,Palestine,2021-12-30,CONSUMER
+666,Khaled Farah,Female,35.0,,UAE,2021-03-08,Small Business
+667,Yousef Odeh,Male,31.0,Cairo,Egypt,2024-03-04,Corporate
+668,Tareq Mansour,Female,49.0,Istanbul,Turkey,2021-06-09,Small Business
+669,Ali Yasin,Male,18.0,Cairo,Egypt,2025-12-19,Corporate 
+670,Lina Nasser,Female,44.0,Bethlehem,Palestine,2021-01-24,Corporate
+671,Yousef Yasin,Male,46.0,Jenin,Palestine,2022-06-10,Consumer
+672,Dana Saleh,Male,18.0,Tulkarm,Palestine,2023-06-17,consumer
+673,Rana Khalil,Female,30.0,Tulkarm,Palestine,2022-12-21,Small Business
+674,Tareq Saleh,,30.0,Dubai,UAE,2024-08-26,consumer
+675,Ahmed Mansour,Male,19.0,Nablus,Palestine,2022-08-27,Small Business
+676,Khaled Hamdan,Male,26.0,Ramallah,Palestine,2022-12-02,Corporate
+677,Ali Mansour,Male,22.0,Amman,Jordan,2026-01-14,CONSUMER
+678,Dana Mahmoud,Female,51.0,Istanbul,Turkey,2021-03-05,Corporate
+679,Yousef Mansour,Female,43.0,Jerusalem,Palestine,2021-04-20,Corporate
+680,Lina Mahmoud,Male,46.0,Tulkarm,Palestine,2024-11-28,Small Business
+681,Omar Hamdan,Female,41.0,Hebron,Palestine,2021-07-16,CONSUMER
+682,Noor Hassan,Female,22.0,Jerusalem,Palestine,2021-04-22,consumer
+683,Hala Nasser,Male,28.0,Gaza,Palestine,2025-08-15,Consumer
+684,Sara Khalil,Male,38.0,Hebron,Palestine,2021-12-16,consumer
+685,Rana Odeh,Male,21.0,Gaza,Palestine,2025-05-27,consumer
+686,Rana Saleh,Female,41.0,Ramallah,Palestine,2024-08-07,Small Business
+687,Leen Hassan,Female,31.0,Jenin,Palestine,2022-01-18,Small Business
+688,Tareq Awwad,Female,30.0,Bethlehem,Palestine,2022-06-24,CONSUMER
+689,Yousef Khalil,Male,41.0,,Palestine,2025-03-21,Corporate 
+690,Tareq Suleiman,Female,38.0,Amman,Jordan,2023-04-28,Consumer
+691,Hala Farah,Female,30.0,Amman,Jordan,2023-05-08,Corporate
+692,Rana Yasin,Female,45.0,Gaza,Palestine,2021-06-11,Consumer
+693,Leen Saleh,Male,23.0,Ramallah,Palestine,2025-03-31,Corporate
+694,Omar Hamdan,Male,40.0,Hebron,Palestine,2021-09-16,Consumer
+695,Adam Farah,Female,39.0,Hebron,Palestine,2025-08-12,Small Business
+696,Ali Khalil,Female,30.0,Istanbul,Turkey,2026-02-16,consumer
+697,Lina Suleiman,Female,37.0,Amman,Jordan,2022-10-30,consumer
+698,Dana Khalil,Male,21.0,Istanbul,Turkey,2024-06-30,consumer
+699,Yousef Khalil,Male,43.0,Jerusalem,Palestine,2024-03-06,CONSUMER
+700,Noor Hamdan,Male,32.0,Gaza,Palestine,2025-11-12,Small Business
+701,Hala Hassan,Female,28.0,Cairo,Egypt,2023-09-22,Corporate
+702,Rana Hassan,Female,44.0,Tulkarm,Palestine,2021-10-22,consumer
+703,Omar Yasin,Female,26.0,Istanbul,Turkey,2022-05-02,consumer
+704,Maya Awwad,Female,19.0,,Palestine,2021-02-11,Small Business
+705,Yousef Nasser,Female,18.0,Bethlehem,Palestine,2025-10-24,Corporate
+706,Maya Awwad,Female,40.0,Istanbul,Turkey,2023-06-27,Corporate 
+707,Ali Nasser,Female,21.0,Dubai,UAE,2024-08-15,consumer
+708,Hala Suleiman,Male,51.0,Tulkarm,Palestine,2025-02-26,Small Business
+709,Khaled Khalil,,18.0,Nablus,Palestine,2023-11-22,Small Business
+710,Ahmed Saleh,Female,,Jerusalem,Palestine,2025-05-18,Corporate
+711,Omar Odeh,Male,999.0,Nablus,Palestine,2022-05-26,Consumer
+712,Lina Mansour,Female,33.0,Istanbul,Turkey,2022-02-12,Small Business
+713,Yousef Mahmoud,Female,28.0,Amman,Jordan,2023-03-24,Consumer
+714,Leen Saleh,Male,37.0,Jenin,Palestine,2023-09-29,Small Business
+715,Noor Mansour,Female,33.0,Dubai,UAE,2024-02-04,Corporate
+716,Ali Awwad,Female,45.0,Istanbul,Turkey,2025-08-29,Consumer
+717,Sami Nasser,Female,,Nablus,Palestine,2021-11-30,Corporate 
+718,Lina Mahmoud,Male,35.0,Cairo,Egypt,2022-02-28,consumer
+719,Hala Saleh,Male,,Cairo,Egypt,2021-01-19,Corporate 
+720,Ahmed Nasser,Male,33.0,Dubai,UAE,2025-06-29,Small Business
+721,Lina Hamdan,Female,37.0,Istanbul,Turkey,2024-12-23,consumer
+722,Sami Odeh,Female,18.0,Bethlehem,Palestine,2022-06-01,Small Business
+723,Ahmed Suleiman,Female,20.0,Dubai,UAE,2021-07-29,Corporate 
+724,Sara Awwad,Female,41.0,Amman,Jordan,2024-08-18,Corporate 
+725,Maya Awwad,Male,35.0,Bethlehem,Palestine,2021-05-11,Corporate 
+726,Sara Nasser,Female,32.0,Gaza,Palestine,2022-06-19,Corporate
+727,Rana Mahmoud,Male,34.0,Nablus,Palestine,2025-07-08,Small Business
+728,Hala Awwad,Male,999.0,,Turkey,2021-02-22,Small Business
+729,Omar Farah,Female,28.0,,Palestine,2023-03-07,Corporate 
+730,Tareq Mahmoud,Male,26.0,Jenin,Palestine,2025-01-27,CONSUMER
+731,Sara Saleh,Female,35.0,Cairo,Egypt,2023-01-05,Small Business
+732,Hala Saleh,Male,24.0,,Palestine,2021-07-19,Corporate 
+733,Khaled Mahmoud,Female,38.0,Istanbul,Turkey,2025-07-14,Small Business
+734,Tareq Yasin,Male,18.0,Hebron,Palestine,2022-12-29,Small Business
+735,Maya Mansour,Female,44.0,Tulkarm,Palestine,2025-06-03,Small Business
+736,Yousef Odeh,Female,38.0,Bethlehem,Palestine,2025-10-10,Consumer
+737,Sami Suleiman,Male,36.0,Bethlehem,Palestine,2025-12-27,Consumer
+738,Dana Hassan,Female,43.0,Amman,Jordan,2022-09-04,Small Business
+739,Maya Hamdan,Male,50.0,Jerusalem,Palestine,2022-02-15,CONSUMER
+740,Khaled Khalil,Female,44.0,Jerusalem,Palestine,2022-10-10,consumer
+741,Maya Mahmoud,Female,18.0,Cairo,Egypt,2021-12-29,Consumer
+742,Sami Saleh,Male,21.0,Bethlehem,Palestine,2022-07-15,CONSUMER
+743,Ali Saleh,Male,27.0,Bethlehem,Palestine,2025-05-28,CONSUMER
+744,Rana Hamdan,Female,34.0,Cairo,Egypt,2023-05-30,consumer
+745,Sami Yasin,Female,39.0,Nablus,Palestine,2021-03-19,Small Business
+746,Sami Hassan,Male,26.0,Jenin,Palestine,2025-03-31,Corporate 
+747,Tareq Nasser,Male,35.0,Cairo,Egypt,2025-02-11,Corporate 
+748,Yousef Hamdan,Female,26.0,Gaza,Palestine,2021-09-22,CONSUMER
+749,Omar Awwad,,27.0,Jerusalem,Palestine,2021-05-14,Small Business
+750,Maya Hamdan,Female,19.0,Istanbul,Turkey,2023-12-02,Corporate 
+751,Hala Mansour,Male,24.0,Jenin,Palestine,2026-01-21,Small Business
+752,Rana Hassan,Male,20.0,Jerusalem,Palestine,2026-02-01,Corporate
+753,Sami Yasin,Male,24.0,Istanbul,Turkey,2021-09-26,Consumer
+754,Omar Hamdan,,44.0,Ramallah,Palestine,2023-01-21,Corporate 
+755,Omar Farah,Female,24.0,,Jordan,2024-06-30,Consumer
+756,Ahmed Hassan,Male,60.0,Cairo,Egypt,2025-09-09,Corporate 
+757,Rana Khalil,Male,38.0,Tulkarm,Palestine,2023-06-29,CONSUMER
+758,Adam Nasser,Female,35.0,Bethlehem,Palestine,2024-12-08,Corporate 
+759,Yousef Mahmoud,Male,25.0,Gaza,Palestine,2023-05-12,CONSUMER
+760,Adam Hamdan,Female,41.0,Dubai,UAE,2024-05-25,Small Business
+761,Yousef Awwad,Male,28.0,Amman,Jordan,2025-01-12,Consumer
+762,Sami Awwad,Male,35.0,Bethlehem,Palestine,2022-02-11,Small Business
+763,Dana Awwad,Male,59.0,Jenin,Palestine,2024-12-11,Corporate
+764,Sami Yasin,Male,33.0,Amman,Jordan,2023-10-14,consumer
+765,Ahmed Mahmoud,Female,45.0,Hebron,Palestine,2021-01-06,Consumer
+766,Hala Saleh,Male,26.0,Dubai,UAE,2024-10-02,Consumer
+767,Yousef Awwad,Male,,Istanbul,Turkey,2025-01-21,Corporate 
+768,Lina Odeh,Male,51.0,Bethlehem,Palestine,2022-08-30,Consumer
+769,Omar Awwad,Male,27.0,Jerusalem,Palestine,2025-11-26,Small Business
+770,Yousef Khalil,Female,52.0,Tulkarm,Palestine,2025-02-21,Small Business
+771,Adam Mahmoud,Male,41.0,Nablus,Palestine,2025-10-11,Corporate 
+772,Leen Farah,Male,28.0,Jenin,Palestine,2023-01-03,Small Business
+773,Maya Saleh,Male,40.0,Jenin,Palestine,2025-07-28,Consumer
+774,Lina Hamdan,Female,43.0,Tulkarm,Palestine,2023-07-24,Corporate 
+775,Khaled Khalil,Female,40.0,Tulkarm,Palestine,2024-08-21,Corporate
+776,Dana Farah,Male,18.0,Jerusalem,Palestine,2021-08-01,consumer
+777,Rana Mansour,Female,26.0,Jerusalem,Palestine,2024-06-05,CONSUMER
+778,Adam Odeh,Male,31.0,Cairo,Egypt,2025-12-08,consumer
+779,Omar Khalil,Male,33.0,Tulkarm,Palestine,2023-06-22,Small Business
+780,Tareq Mahmoud,Female,40.0,Nablus,Palestine,2024-12-13,Small Business
+781,Yousef Hamdan,Female,,Amman,Jordan,2023-12-08,Corporate 
+782,Rana Saleh,Male,20.0,Bethlehem,Palestine,2022-12-10,Small Business
+783,Khaled Suleiman,Male,37.0,Nablus,Palestine,2024-08-10,Small Business
+784,Khaled Khalil,Female,40.0,Bethlehem,Palestine,2025-11-16,Small Business
+785,Maya Awwad,Female,39.0,Jenin,Palestine,2022-05-09,Consumer
+786,Rana Hamdan,Male,44.0,Amman,Jordan,2024-08-10,Small Business
+787,Leen Farah,Male,42.0,Ramallah,Palestine,2023-07-30,consumer
+788,Maya Khalil,Male,38.0,Bethlehem,Palestine,2023-07-05,consumer
+789,Dana Hassan,Male,33.0,Ramallah,Palestine,2023-04-07,CONSUMER
+790,Sara Suleiman,Male,18.0,Ramallah,Palestine,2025-06-10,CONSUMER
+791,Leen Mansour,Male,38.0,Cairo,Egypt,2024-10-07,Small Business
+792,Leen Mansour,Male,36.0,Hebron,Palestine,2025-09-26,CONSUMER
+793,Noor Yasin,Female,36.0,Istanbul,Turkey,2024-09-07,consumer
+794,Tareq Hassan,Male,21.0,Ramallah,Palestine,2025-04-05,Small Business
+795,Sara Suleiman,Female,23.0,Cairo,Egypt,2025-06-27,CONSUMER
+796,Omar Saleh,Female,44.0,Istanbul,Turkey,2021-08-06,consumer
+797,Dana Khalil,Male,33.0,Istanbul,Turkey,2025-03-01,Small Business
+798,Rana Nasser,Male,40.0,Hebron,Palestine,2021-09-05,consumer
+799,Yousef Hamdan,Male,34.0,Istanbul,Turkey,2022-11-24,Consumer
+800,Adam Odeh,,34.0,Bethlehem,Palestine,2023-07-26,Consumer
+62,Sara Mahmoud,Male,32.0,Cairo,Egypt,2025-08-01,Consumer
+800,Adam Odeh,,34.0,Bethlehem,Palestine,2023-07-26,Consumer
+748,Yousef Hamdan,Female,26.0,Gaza,Palestine,2021-09-22,CONSUMER
+669,Ali Yasin,Male,18.0,Cairo,Egypt,2025-12-19,Corporate 
+727,Rana Mahmoud,Male,34.0,Nablus,Palestine,2025-07-08,Small Business
+111,Leen Saleh,Female,18.0,Istanbul,Turkey,2021-12-05,CONSUMER
+390,Hala Saleh,Male,28.0,Istanbul,Turkey,2021-04-16,CONSUMER
+465,Omar Farah,Female,32.0,Jenin,Palestine,2023-04-28,Small Business
+35,Leen Khalil,Female,42.0,Bethlehem,Palestine,2026-01-17,Corporate
+245,Noor Saleh,Male,21.0,Istanbul,Turkey,2025-02-22,CONSUMER
